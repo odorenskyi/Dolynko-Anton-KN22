@@ -1,0 +1,1331 @@
+dÜ%     8= Ä      .text             ‹  (     ;     P`.data                               @ P¿.bss                               Ä P¿.rdata          ¿  Ã
+              @ P@.xdata          ¥   å
+  Z*        @ 0@.pdata          Ñ   @  d*     !   @ 0@/4              0   ƒ  Æ+         P`/87                Ù              @0@/171                  ∏+        @0@/255            @     ÷+         P`/370               L              @0@/486               X  Í+        @0@/602                d               P`/701               Ñ              @0@/801               å  ,        @0@/901               ò               P`/1004              ®              @0@/1108              ∞  &,        @0@/1212               º               P`/1312              ‹              @0@/1413              ‰  D,        @0@.ctors               b,        @ @¿/1514           D˝  ¯  l,     s  @ B/1526           [
+  <
+             @ B/1540           Ä   ó Í:         @ B/1555           p    0;        @ B/1569           L  á ®;        @ B/1581           Å  ”              @ B/1592           @   T$             @ P@/1603              î$ ‰;        @P@/1677              §$ Ó;        @P@/1702             ¥$ ¯;        @ @B/1715           @   ƒ& ‘<        @@B/1805           H   ' Ë<        @@B/1927           @   L' ¸<        @@B/2033           @   å' =        @@B/2143           @   Ã' $=        @@BUHâÂHÉÏ HâMâ–àE∂Eâ¡Hã    ˇ–HÉƒ ]√UWVSHÅÏ(  Hç¨$Ä   Ë    HçÖp  Hâ¡Ë    π„  Hã    ˇ–π„  Hã    ˇ–HçÖê  Hâ¡Ë    HçÖê  A∏   Hç   Hâ¡Ë    HçÖê  Hâ¡Ë    ÉÑ¿t1Hç   Hã
+    Ë    Hã    Hâ¡Ë    ª   æ    È¡  HçÖp  Hâ¡Ë    Hçïp  HçÖê  Hâ¡Ë    HçÖp  Hâ¡Ë    Hâ∆HçÖp  Hâ¡Ë    Aâ¯HâÚHâ¡Ë  âÖú  HçÖp  Hç8   Hâ¡Ë    Ñ¿uHçÖp  Hç∏   Hâ¡Ë    Ñ¿t ∏   Î∏    àÖõ  HçÖê  Hâ¡Ë    HçE†A∏   Hç6  Hâ¡Ë    HçE†Hâ¡Ë    ÉÑ¿t.HçH  Hã
+    Ë    Hã    Hâ¡Ë    ª   æ    Î{HçE†Hçp  Hâ¡Ë    HçE†Hç  Hâ¡Ë    Hâ¡ãÖú  â¬Ë    Hç0  Hâ¡Ë    ÄΩõ   tHçE†Hç8  Hâ¡Ë    ÎHçE†Hçx  Hâ¡Ë    æ   HçE†Hâ¡Ë    É˛u æ   Îæ    HçÖp  Hâ¡Ë    É˛u æ   Îæ    HçÖê  Hâ¡Ë    É˛u æ   Îæ    HçÖp  Hâ¡Ë    É˛uª    âÿÎVHâ√HçE†Hâ¡Ë    ÎHâ√HçÖp  Hâ¡Ë    ÎHâ√HçÖê  Hâ¡Ë    ÎHâ√HçÖp  Hâ¡Ë    HâÿHâ¡Ë    HÅƒ(  [^_]√USHÉÏ(Hç¨$Ä   HâM¿HâU»DàE–â¡Ë(   HãE»AâÿHâ¬HãM¿ËC   HÉƒ([]√UHâÂHâMHãE]√UVSHâÂHÉÏ0àM HçM Ë‹ˇˇˇHçEˇâÚHâ¡Ëh   âÿHÉƒ0[^]√UHâÂHÉÏ0HâMHâUDàE H«E¯    HçEHâ¬HçMË    Ñ¿t$HçE HãUHâ¡Ë@   Ñ¿tHÉE¯HçMË    Î»HãE¯HÉƒ0]√UHâÂHÉÏ HâMàUHçEHâ¡ËKˇˇˇêHÉƒ ]√USHÉÏ(Hç¨$Ä   HâM¿HâU»Hã]¿HçE»Hâ¡Ë    ∂ ∂¿â¬HâŸËò˚ˇˇÖ¿ï¿HÉƒ([]√UHâÂHÉÏ Hç
+    Ë    êHÉƒ ]√UHâÂHÉÏ âMâUÉ}u!Å}ˇˇ  uHç
+    Ë    Hç
+µˇˇˇË    êHÉƒ ]√UHâÂHÉÏ ∫ˇˇ  π   Ë≠ˇˇˇêHÉƒ ]√êêêêêêê   text.txt     œÓÏËÎÍ‡ ‚≥‰ÍËÚÚˇ ‚ı≥‰ÌÓ„Ó Ù‡ÈÎÛ         ÓÎË Ï‡ÎËÏ ÚË ‚ÔÂ¯Â ÒÚ‡‚ Ì‡ ÌÓ„Ë -
+ﬂÍ‡ Ê ÚÓ ‡‰≥ÒÚ¸ Ï‡ÚÂ≥ ·ÛÎ‡!
+¬≥‰ ÚËıÓø ÍÓÎËÒÍË ‰Ó ÔÓÓ„‡
+¬ÓÌ‡ ÚÂ·Â Á‡ ÛÍÛ ÔÓ‚ÂÎ‡.
+       ¬ÓÌ‡ ÔË·≥„Î‡ ÒÚÓÏÎÂÌ‡ Á Ó·ÓÚË,
+≤, ÏÓÊÂ, ÒÓÌ øÈ Ó˜≥ Á‡ÏËÍ‡‚,
+¿ ‰ÓÏ‡ ó ÌÓ‚ËÈ ÍÎÓÔ≥Ú ≥ ÚÛ·ÓÚË,
+≤ ‰Ó‚„‡ ÌËÁÍ‡ ÌÂÔÓ˜‡ÚËı ÒÔ‡‚. inform.txt        œÓÏËÎÍ‡ ‚≥‰ÍËÚÚˇ ‚Ëı≥‰ÌÓ„Ó Ù‡ÈÎÛ       –ÓÁÓ·ÌËÍ: ƒÓÎËÌÍÓ ¿ÌÚÓÌ
+”ÒÚ‡ÌÓ‚‡: ÷ÂÌÚ‡Î¸ÌÓÛÍ‡øÌÒ¸ÍËÈ Ì‡ˆ≥ÓÌ‡Î¸ÌËÈ ÚÂıÌ≥˜ÌËÈ ÛÌ≥‚ÂÒËÚÂÚ
+Ã≥ÒÚÓ:  ÓÔË‚ÌËˆ¸ÍËÈ
+ ‡øÌ‡: ”Í‡øÌ‡
+–≥Í: 2023
+
+       ≥Î¸Í≥ÒÚ¸ ÒËÏ‚ÓÎ≥‚ ‚ÂıÌ¸Ó„Ó Â„≥ÒÚ‡:  
+
+      –ˇ‰ÓÍ ∫ Ó‰ÌËÏ Á ˇ‰Í≥‚ ‚≥¯‡ ¬‡ÒËÎˇ —ËÏÓÌÂÌÍ‡ "¬ÍÎÓÌË‚Òˇ øÈ"
+   –ˇ‰ÓÍ ÌÂ ∫ Ó‰ÌËÏ Á ˇ‰Í≥‚ ‚≥¯‡ ¬‡ÒËÎˇ —ËÏÓÌÂÌÍ‡ "¬ÍÎÓÌË‚Òˇ øÈ"
+        2P   Ö
+Ö 0`pP      ˇˇ3Ï i=ÿ ’®ƒ Ñ∞≥ Ñ     ÖB0PP
+
+R0`P  RP  2P  ÖB0P2P  2P  2P      &       &   ;     ;  v  H   v  Ñ  T   Ñ  ≤  \   ≤    l     2  x   2  t  Ñ   t  è  ê   è  À  ú   À  È  ®   UHâÂHÉÏ HâMHâUHãEHâ¬HãMË    Ö¿î¿HÉƒ ]√êêêêê2P      +       USHÉÏ(Hç¨$Ä   HâM¿HâU»HãM¿Ë    HãHãE»Hâ¡Ë    Hã H9√ï¿HÉƒ([]√êêÖB0P    >       UHâÂHâMHãEHã HçPHãEHâHãE]√P            UHâÂHâMHãE]√êêP           UHâÂHâMHãEHã ]√êêêêêêêêêêêêêêêP           À      @˝       lGNU C++14 8.1.0 -mtune=core2 -march=nocona -g -fexceptions D:\UNI\Code Blocks\Lab 10\task 1\main.cpp D:\UNI\Code Blocks\Lab 10\task 1                 mstd K {p  W__cxx11 AœH  <basic_string<char, std::char_traits<char>, std::allocator<char> >  M
+∫H  =ä  ãm  X™]   Dä  ë_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_Alloc_hiderC4EPcRKS3_ {  ã  ∏´  m  °   Dä  î_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_Alloc_hiderC4EPcOS3_ Ë  ¯  ∏´  m  √´   _M_p ò
+m   n~_Alloc_hider _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_Alloc_hiderD4Ev a  ∏´  ‘å    -  \0¿x  o° ∑  Y_M_local_buf ¢5…´  Y_M_allocated_capacity £∑       X2ÿx  
+∑  pnpos eƒ  ˇˇˇˇˇˇˇˇ_M_dataplus õ
+   _M_string_length ú∑  qz  $_M_data ß _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7_M_dataEPc i  t  Ÿ´  m   $_M_length ´ _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE9_M_lengthEy Ã  ◊  Ÿ´  ∑   -_M_data Ø _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7_M_dataEv m  0  6  ‰´   73   ≥ _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE13_M_local_dataEv m  ë  ó  Ÿ´     ]5Ãx  73   Ω _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE13_M_local_dataEv ó       ‰´   $_M_capacity « _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE11_M_capacityEy c  n  Ÿ´  ∑   $_M_set_length À _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE13_M_set_lengthEy œ  ⁄  Ÿ´  ∑   -_M_is_local “ _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE11_M_is_localEv –ú  <  B  ‰´   -_M_create ◊ _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE9_M_createERyy m  †  ∞  Ÿ´  Í´  ∑   $_M_dispose ⁄ _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE10_M_disposeEv 
+      Ÿ´   $_M_destroy · _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE10_M_destroyEy l   w   Ÿ´  ∑   $_M_construct_aux_2 ˜ _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE18_M_construct_aux_2Eyc „   Û   Ÿ´  ∑  %å   8_M_construct  _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructEyc T  d  Ÿ´  ∑  %å   r  W#v  
+d  	_Char_alloc_type Py  ZZ    _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE16_M_get_allocatorEv ´  Ó  Ù  Ÿ´   ZZ    _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE16_M_get_allocatorEv ˆ´  T	  Z	  ‰´   1_M_check + _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE8_M_checkEyPKc ∑  π	  …	  ‰´  ∑  £ï   8_M_check_length 5 _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE15_M_check_lengthEyyPKc 4
+  I
+  ‰´  ∑  ∑  £ï   1_M_limit > _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE8_M_limitEyy ∑  ¶
+  ∂
+  ‰´  ∑  ∑   1_M_disjunct F _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE11_M_disjunctEPKc –ú  
+  &
+  ‰´  £ï   E_S_copy O _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7_S_copyEPcPKcy å
+  ê  £ï  ∑   E_S_move X _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7_S_moveEPcPKcy Ú
+  ê  £ï  ∑   E_S_assign a _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE9_S_assignEPcyc Z  ê  ∑  %å   .k  t _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE13_S_copy_charsEPcN9__gnu_cxx17__normal_iteratorIS5_S4_EES8_ È  ê  È  È   ∞  ^D4y  .k  x _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE13_S_copy_charsEPcN9__gnu_cxx17__normal_iteratorIPKcS4_EESA_ Ö
+  ê  Ö
+  Ö
+      `∆Ä  .k  } _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE13_S_copy_charsEPcS5_S5_ ˝
+  ê  ê  ê   .k  Å _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE13_S_copy_charsEPcPKcS7_ h  ê  £ï  £ï   _S_compare Ü _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE10_S_compareEyy ‘å  –  ∑  ∑   8_M_assign ì _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE9_M_assignERKS4_ -  8  Ÿ´  ¸´   8_M_mutate ñ _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE9_M_mutateEyyPKcy ñ  ∞  Ÿ´  ∑  ∑  £ï  ∑   8_M_erase ö _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE8_M_eraseEyy     Ÿ´  ∑  ∑   ±   § _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC4Ev d  j  Ÿ´   F±   ≠ _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC4ERKS3_ ∫  ≈  Ÿ´  °   ±   µ _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC4ERKS4_      Ÿ´  ¸´   ±   ¬ _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC4ERKS4_yRKS3_ v  ã  Ÿ´  ¸´  ∑  °   ±   — _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC4ERKS4_yy ›  Ú  Ÿ´  ¸´  ∑  ∑   ±   · _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC4ERKS4_yyRKS3_ I  c  Ÿ´  ¸´  ∑  ∑  °   ±   Û _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC4EPKcyRKS3_ ∑  Ã  Ÿ´  £ï  ∑  °   ±   ˝ _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC4EPKcRKS3_   /  Ÿ´  £ï  °   ±     _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC4EycRKS3_ Å  ñ  Ÿ´  ∑  %å  °   ±    _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC4EOS4_ Â    Ÿ´  ¨   ±   . _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC4ESt16initializer_listIcERKS3_ W  g  Ÿ´  Ób  °   ±   2 _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC4ERKS4_RKS3_ º  Ã  Ÿ´  ¸´  °   ±   6 _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC4EOS4_RKS3_    0  Ÿ´  ¨  °   ~basic_string Ü _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEED4Ev Ü  ë  Ÿ´  ‘å   ¶  é _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEaSERKS4_ ¨  Â    Ÿ´  ¸´   ¶  µ _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEaSEPKc ¨  B  M  Ÿ´  £ï   ¶  ¿ _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEaSEc ¨  ù  ®  Ÿ´  %å   ¶  “ _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEaSEOS4_ ¨  ˚    Ÿ´  ¨   ¶   _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEaSESt16initializer_listIcE ¨  l  w  Ÿ´  Ób   begin ' _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE5beginEv È  Õ  ”  Ÿ´   begin / _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE5beginEv Ö
+  *  0  ‰´   end 7 _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE3endEv È  Ç  à  Ÿ´   end ? _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE3endEv Ö
+  €  ·  ‰´   [reverse_iterator b0öd  rbegin H _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6rbeginEv ·  S  Y  Ÿ´   [const_reverse_iterator a5$e  rbegin Q _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6rbeginEv Y  “  ÿ  ‰´   rend Z _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE4rendEv ·  ,  2  Ÿ´   rend c _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE4rendEv Y  á  ç  ‰´   cbegin l _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6cbeginEv Ö
+  Ê  Ï  ‰´   cend t _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE4cendEv Ö
+  A  G  ‰´   crbegin } _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7crbeginEv Y  ¢  ®  ‰´   crend Ü _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE5crendEv Y  ˇ    ‰´   size è _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE4sizeEv ∑  Z  `  ‰´     ï _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6lengthEv ∑  ∂  º  ‰´   5  ö _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE8max_sizeEv ∑      ‰´   resize ® _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6resizeEyc o    Ÿ´  ∑  %å   resize µ _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6resizeEy ”  ﬁ  Ÿ´  ∑   shrink_to_fit ª _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE13shrink_to_fitEv A  G  Ÿ´   capacity Œ _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE8capacityEv ∑  §  ™  ‰´   reserve Ê _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7reserveEy    
+  Ÿ´  ∑   clear Ï _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE5clearEv ]  c  Ÿ´   empty Ù _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE5emptyEv –ú  ∫  ¿  ‰´   ∑  [7x  !   _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEixEy ¿     )   ‰´  ∑   ¢  Z2‰x  !   _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEixEy )   Ü   ë   Ÿ´  ∑   at ) _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE2atEy ¿  ‚   Ì   ‰´  ∑   at > _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE2atEy )   =!  H!  Ÿ´  ∑   front N _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE5frontEv )   û!  §!  Ÿ´   front Y _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE5frontEv ¿  ˚!  "  ‰´   back d _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE4backEv )   U"  ["  Ÿ´   back o _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE4backEv ¿  ∞"  ∂"  ‰´   7  } _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEpLERKS4_ ¨  
+#  #  Ÿ´  ¸´   7  Ü _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEpLEPKc ¨  g#  r#  Ÿ´  £ï   7  è _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEpLEc ¨  ¬#  Õ#  Ÿ´  %å   7  ú _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEpLESt16initializer_listIcE ¨  3$  >$  Ÿ´  Ób   æ   ≤ _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6appendERKS4_ ¨  ó$  ¢$  Ÿ´  ¸´   æ   √ _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6appendERKS4_yy ¨  ˝$  %  Ÿ´  ¸´  ∑  ∑   æ   œ _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6appendEPKcy ¨  j%  z%  Ÿ´  £ï  ∑   æ   ‹ _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6appendEPKc ¨  —%  ‹%  Ÿ´  £ï   æ   Ì _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6appendEyc ¨  2&  B&  Ÿ´  ∑  %å   æ   ˜ _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6appendESt16initializer_listIcE ¨  ≠&  ∏&  Ÿ´  Ób   push_back 2 _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE9push_backEc '  '  Ÿ´  %å   _  A _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6assignERKS4_ ¨  v'  Å'  Ÿ´  ¸´   _  Q _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6assignEOS4_ ¨  Ÿ'  ‰'  Ÿ´  ¨   _  h _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6assignERKS4_yy ¨  ?(  T(  Ÿ´  ¸´  ∑  ∑   _  x _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6assignEPKcy ¨  ¨(  º(  Ÿ´  £ï  ∑   _  à _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6assignEPKc ¨  )  )  Ÿ´  £ï   _  ô _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6assignEyc ¨  t)  Ñ)  Ÿ´  ∑  %å   _  µ _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6assignESt16initializer_listIcE ¨  Ô)  ˙)  Ÿ´  Ób   S  Í _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6insertEN9__gnu_cxx17__normal_iteratorIPKcS4_EEyc È  w*  å*  Ÿ´  Ö
+  ∑  %å   S  8 _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6insertEN9__gnu_cxx17__normal_iteratorIPcS4_EESt16initializer_listIcE +  )+  Ÿ´  È  Ób   S  L _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6insertEyRKS4_ ¨  É+  ì+  Ÿ´  ∑  ¸´   S  c _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6insertEyRKS4_yy ¨  Ô+  	,  Ÿ´  ∑  ¸´  ∑  ∑   S  z _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6insertEyPKcy ¨  b,  w,  Ÿ´  ∑  £ï  ∑   S  ç _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6insertEyPKc ¨  œ,  ﬂ,  Ÿ´  ∑  £ï   S  • _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6insertEyyc ¨  6-  K-  Ÿ´  ∑  ∑  %å   S  ∑ _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6insertEN9__gnu_cxx17__normal_iteratorIPKcS4_EEc È  «-  ◊-  Ÿ´  ◊-  %å   	__const_iterator lÖ
+  erase Û _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE5eraseEyy ¨  G.  W.  Ÿ´  ∑  ∑   erase   _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE5eraseEN9__gnu_cxx17__normal_iteratorIPKcS4_EE È  ”.  ﬁ.  Ÿ´  ◊-   erase   _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE5eraseEN9__gnu_cxx17__normal_iteratorIPKcS4_EES9_ È  ]/  m/  Ÿ´  ◊-  ◊-   pop_back ,  _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE8pop_backEv ≈/  À/  Ÿ´   
+   E  _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7replaceEyyRKS4_ ¨  '0  <0  Ÿ´  ∑  ∑  ¸´   
+   [  _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7replaceEyyRKS4_yy ¨  ö0  π0  Ÿ´  ∑  ∑  ¸´  ∑  ∑   
+   t  _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7replaceEyyPKcy ¨  1  .1  Ÿ´  ∑  ∑  £ï  ∑   
+   ç  _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7replaceEyyPKc ¨  à1  ù1  Ÿ´  ∑  ∑  £ï   
+   •  _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7replaceEyyyc ¨  ˆ1  2  Ÿ´  ∑  ∑  ∑  %å   
+   ∑  _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7replaceEN9__gnu_cxx17__normal_iteratorIPKcS4_EES9_RKS4_ ¨  î2  ©2  Ÿ´  ◊-  ◊-  ¸´   
+   À  _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7replaceEN9__gnu_cxx17__normal_iteratorIPKcS4_EES9_S8_y ¨  ,3  F3  Ÿ´  ◊-  ◊-  £ï  ∑   
+   ·  _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7replaceEN9__gnu_cxx17__normal_iteratorIPKcS4_EES9_S8_ ¨  »3  ›3  Ÿ´  ◊-  ◊-  £ï   
+   ˆ  _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7replaceEN9__gnu_cxx17__normal_iteratorIPKcS4_EES9_yc ¨  ^4  x4  Ÿ´  ◊-  ◊-  ∑  %å   
+   / _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7replaceEN9__gnu_cxx17__normal_iteratorIPKcS4_EES9_PcSA_ ¨  ¸4  5  Ÿ´  ◊-  ◊-  ê  ê   
+   : _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7replaceEN9__gnu_cxx17__normal_iteratorIPKcS4_EES9_S8_S8_ ¨  õ5  µ5  Ÿ´  ◊-  ◊-  £ï  £ï   
+   E _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7replaceEN9__gnu_cxx17__normal_iteratorIPKcS4_EES9_NS6_IPcS4_EESB_ ¨  C6  ]6  Ÿ´  ◊-  ◊-  È  È   
+   P _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7replaceEN9__gnu_cxx17__normal_iteratorIPKcS4_EES9_S9_S9_ ¨  ‚6  ¸6  Ÿ´  ◊-  ◊-  Ö
+  Ö
+   
+   i_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7replaceEN9__gnu_cxx17__normal_iteratorIPKcS4_EES9_St16initializer_listIcE ¨  í7  ß7  Ÿ´  Ö
+  Ö
+  Ób   1_M_replace_aux ≤ _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE14_M_replace_auxEyyyc ¨  8  ,8  Ÿ´  ∑  ∑  ∑  %å   1_M_replace ∂ _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE10_M_replaceEyyPKcy ¨  ë8  ´8  Ÿ´  ∑  ∑  £ï  ∑   1_M_append ∫ _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE9_M_appendEPKcy ¨  
+9  9  Ÿ´  £ï  ∑   copy À _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE4copyEPcyy ∑  s9  à9  ‰´  ê  ∑  ∑   swap ’ _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE4swapERS4_ €9  Ê9  Ÿ´  ¨   c_str ﬂ _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE5c_strEv £ï  =:  C:  ‰´   data Î _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE4dataEv £ï  ò:  û:  ‰´   get_allocator ˛ _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE13get_allocatorEv d  ;  ;  ‰´   f  	 _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE4findEPKcyy ∑  d;  y;  ‰´  £ï  ∑  ∑   f  	 _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE4findERKS4_y ∑  “;  ‚;  ‰´  ¸´  ∑   f  <	 _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE4findEPKcy ∑  9<  I<  ‰´  £ï  ∑   f  M	 _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE4findEcy ∑  û<  Æ<  ‰´  %å  ∑   Ê  Z	 _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE5rfindERKS4_y ∑  =  =  ‰´  ¸´  ∑   Ê  |	 _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE5rfindEPKcyy ∑  q=  Ü=  ‰´  £ï  ∑  ∑   Ê  ä	 _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE5rfindEPKcy ∑  ﬁ=  Ó=  ‰´  £ï  ∑   Ê  õ	 _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE5rfindEcy ∑  D>  T>  ‰´  %å  ∑   ÿ  ©	 _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE13find_first_ofERKS4_y ∑  ∑>  «>  ‰´  ¸´  ∑   ÿ  Ã	 _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE13find_first_ofEPKcyy ∑  )?  >?  ‰´  £ï  ∑  ∑   ÿ  ⁄	 _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE13find_first_ofEPKcy ∑  ü?  Ø?  ‰´  £ï  ∑   ÿ  Ó	 _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE13find_first_ofEcy ∑  @  @  ‰´  %å  ∑   ?  ˝	 _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12find_last_ofERKS4_y ∑  Ä@  ê@  ‰´  ¸´  ∑   ?   
+ _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12find_last_ofEPKcyy ∑  Ò@  A  ‰´  £ï  ∑  ∑   ?  .
+ _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12find_last_ofEPKcy ∑  fA  vA  ‰´  £ï  ∑   ?  B
+ _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12find_last_ofEcy ∑  ‘A  ‰A  ‰´  %å  ∑     P
+ _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE17find_first_not_ofERKS4_y ∑  KB  [B  ‰´  ¸´  ∑     s
+ _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE17find_first_not_ofEPKcyy ∑  ¡B  ÷B  ‰´  £ï  ∑  ∑     Å
+ _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE17find_first_not_ofEPKcy ∑  ;C  KC  ‰´  £ï  ∑     ì
+ _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE17find_first_not_ofEcy ∑  ÆC  æC  ‰´  %å  ∑   π  ¢
+ _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE16find_last_not_ofERKS4_y ∑  $D  4D  ‰´  ¸´  ∑   π  ≈
+ _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE16find_last_not_ofEPKcyy ∑  ôD  ÆD  ‰´  £ï  ∑  ∑   π  ”
+ _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE16find_last_not_ofEPKcy ∑  E  "E  ‰´  £ï  ∑   π  Â
+ _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE16find_last_not_ofEcy ∑  ÑE  îE  ‰´  %å  ∑   substr ı
+ _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6substrEyy ø   ÓE  ˛E  ‰´  ∑  ∑   H   
+ _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7compareERKS4_ ‘å  YF  dF  ‰´  ¸´   H   e
+ _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7compareEyyRKS4_ ‘å  ¡F  ÷F  ‰´  ∑  ∑  ¸´   H   
+ _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7compareEyyRKS4_yy ‘å  5G  TG  ‰´  ∑  ∑  ¸´  ∑  ∑   H   ë
+ _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7compareEPKc ‘å  ≠G  ∏G  ‰´  £ï   H   ©
+ _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7compareEyyPKc ‘å  H  (H  ‰´  ∑  ∑  £ï   H   ƒ
+ _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7compareEyyPKcy ‘å  ÑH  ûH  ‰´  ∑  ∑  £ï  ∑   
+B  %å  *
+  (U  *Í  ™]   
+ø   	string J!ø    >AÆ   	@
+:î  	ã
+ôå  	ç
+Rî  	é
+kî  	è
+ãî  	ê
+Øî  	ë
+Œî  	í
+Ûî  	ì
+ï  	î
+3ï  	ï
+Tï  	ñ
+mï  	ó
+ï  	ò
+¥ï  	ô
+ﬁï  	ö
+ˇï  	õ
+1ñ  	ú
+Oñ  	û
+kñ  	û
+áñ  	†
+®ñ  	°
+…ñ  	¢
+Èñ  	§
+ó  	ß
+6ó  	ß
+Vó  	™
+{ó  	¨
+°ó  	Æ
+¬ó  	∞
+‚ó  	±
+ ò  	≤
+&ò  	≥
+Eò  	¥
+eò  	µ
+Ñò  	∂
+§ò  	∑
+’ò  	∏
+Ôò  	π
+ô  	∫
+9ô  	ª
+^ô  	º
+êô  	Ω
+Øô  	ø
+ﬁô  	¡
+ö  	¬
+%ö  	√
+Iö  	ƒ
+nö  	≈
+ìö  	∆
+¨ö  	«
+—ö  	»
+ˆö  	…
+õ  	 
+Aõ  	À
+]õ  	Ã
+xõ  	Õ
+óõ  	Œ
+∑õ  	œ
+◊õ  	–
+ˆõ  	ú  		Jú  	
+oú  	ﬁô  	ó  	{ó  	!¬ó  	%ú  	&Jú  	'oú  =k   
+V
+GK  Gk   
+Y_ZNSt9nothrow_tC4Ev @K  ïú    
+K  %nothrow 
+]_ZSt7nothrow GK  H__exception_ptr 
+4
+¯O  rÒ  
+O
+ÍO  _M_exception_object 
+Q
+õú   sÒ  
+S_ZNSt15__exception_ptr13exception_ptrC4EPv ÊK  ÒK  ûú  õú   $_M_addref 
+U_ZNSt15__exception_ptr13exception_ptr9_M_addrefEv 9L  ?L  ûú   $_M_release 
+V_ZNSt15__exception_ptr13exception_ptr10_M_releaseEv äL  êL  ûú   -_M_get 
+X
+_ZNKSt15__exception_ptr13exception_ptr6_M_getEv õú  ◊L  ›L  §ú   !Ò  
+` _ZNSt15__exception_ptr13exception_ptrC4Ev M  M  ûú   !Ò  
+b _ZNSt15__exception_ptr13exception_ptrC4ERKS0_ ]M  hM  ûú  ™ú   !Ò  
+e _ZNSt15__exception_ptr13exception_ptrC4EDn §M  ØM  ûú  \P   !Ò  
+i _ZNSt15__exception_ptr13exception_ptrC4EOS0_ ÌM  ¯M  ûú  ƒú   ?¶  
+v _ZNSt15__exception_ptr13exception_ptraSERKS0_  ú  ;N  FN  ûú  ™ú   ?¶  
+z _ZNSt15__exception_ptr13exception_ptraSEOS0_  ú  àN  ìN  ûú  ƒú   I~exception_ptr 
+Å _ZNSt15__exception_ptr13exception_ptrD4Ev ŸN  ‰N  ûú  ‘å   Iswap 
+Ñ _ZNSt15__exception_ptr13exception_ptr4swapERS0_ &O  1O  ûú   ú   toperator bool 
+ê_ZNKSt15__exception_ptr13exception_ptrcvbEv –ú  |O  ÇO  §ú   u__cxa_exception_type 
+ô _ZNKSt15__exception_ptr13exception_ptr20__cxa_exception_typeEv ›ú  „O  §ú    
+ÅK  
+I P   
+9ÅK  vrethrow_exception 
+E_ZSt17rethrow_exceptionNSt15__exception_ptr13exception_ptrE \P  ÅK   	nullptr_t Ú∞ú  Jtype_info 
+nP  integral_constant<bool, false> 
+EàQ  Kvalue 
+G-ÿú  ê   
+H-–ú  -operator std::integral_constant<bool, false>::value_type 
+J_ZNKSt17integral_constantIbLb0EEcvbEv ¥P  /Q  5Q  „ú   7–  
+O_ZNKSt17integral_constantIbLb0EEclEv ¥P  nQ  tQ  „ú   _Tp –ú  L__v –ú    
+~P  integral_constant<bool, true> 
+EïR  Kvalue 
+G-ÿú  ê   
+H-–ú  -operator std::integral_constant<bool, true>::value_type 
+J_ZNKSt17integral_constantIbLb1EEcvbEv ¬Q  <R  BR  Èú   7–  
+O_ZNKSt17integral_constantIbLb1EEclEv ¬Q  {R  ÅR  Èú   _Tp –ú  L__v –ú   
+çQ  integral_constant<long long unsigned int, 0> 
+E¿S  Kvalue 
+G-[å  ê   
+H-Aå  -operator std::integral_constant<long long unsigned int, 0>::value_type 
+J_ZNKSt17integral_constantIyLy0EEcvyEv ﬁR  gS  mS  Ôú   7–  
+O_ZNKSt17integral_constantIyLy0EEclEv ﬁR  ¶S  ¨S  Ôú   _Tp Aå  L__v Aå    
+öR  \__swappable_details 
+u	
+\__swappable_with_details 
+√	
+__is_integer<long double> >T  M ?ê  Å4T  N!     _Tp ;ú   __is_integer<double> {T  M ?ê  ÅqT  N!     _Tp Œô   __is_integer<float> ∑T  M ?ê  Å≠T  N!     _Tp ˝ô   =≈   L
+˘T  G≈   L+_ZNSt21piecewise_construct_tC4Ev ÚT  %ù    
+∑T  ]piecewise_construct O5˘T   w__debug 2
+&char_traits<char> €X  ._   _ZNSt11char_traitsIcE6assignERcRKc U  Mù  Sù   'u  !%å  
+U  eq   _ZNSt11char_traitsIcE2eqERKcS2_ –ú  ÃU  Sù  Sù   lt $ _ZNSt11char_traitsIcE2ltERKcS2_ –ú   V  Sù  Sù   H   , _ZNSt11char_traitsIcE7compareEPKcS2_y ‘å  NV  Yù  Yù  €X     : _ZNSt11char_traitsIcE6lengthEPKc €X  ÜV  Yù   f  D _ZNSt11char_traitsIcE4findEPKcyRS1_ Yù  ÀV  Yù  €X  Sù   move R _ZNSt11char_traitsIcE4moveEPcPKcy _ù  W  _ù  Yù  €X   copy Z _ZNSt11char_traitsIcE4copyEPcPKcy _ù  SW  _ù  Yù  €X   _  b _ZNSt11char_traitsIcE6assignEPcyc _ù  ñW  _ù  €X  U   ô  j _ZNSt11char_traitsIcE12to_char_typeERKi U  ’W  eù   '«  !‘å  
+’W  Ï  p _ZNSt11char_traitsIcE11to_int_typeERKc ’W  %X  Sù     t _ZNSt11char_traitsIcE11eq_int_typeERKiS2_ –ú  kX  eù  eù   ^eof x _ZNSt11char_traitsIcE3eofEv ’W  not_eof | _ZNSt11char_traitsIcE7not_eofERKi ’W  —X  eù   
+B  %å   	size_t ÓAå  &char_traits<wchar_t> Ñ†\  ._  ç _ZNSt11char_traitsIwE6assignERwRKw DY  kù  qù   'u  Ü!)ê  
+DY  eq ë _ZNSt11char_traitsIwE2eqERKwS2_ –ú  ëY  qù  qù   lt ï _ZNSt11char_traitsIwE2ltERKwS2_ –ú  ÃY  qù  qù   H   ô _ZNSt11char_traitsIwE7compareEPKwS2_y ‘å  Z  wù  wù  €X     ® _ZNSt11char_traitsIwE6lengthEPKw €X  KZ  wù   f  ≥ _ZNSt11char_traitsIwE4findEPKwyRS1_ wù  êZ  wù  €X  qù   move ¬ _ZNSt11char_traitsIwE4moveEPwPKwy }ù  ‘Z  }ù  wù  €X   copy   _ZNSt11char_traitsIwE4copyEPwPKwy }ù  [  }ù  wù  €X   _  “ _ZNSt11char_traitsIwE6assignEPwyw }ù  [[  }ù  €X  DY   ô  ⁄ _ZNSt11char_traitsIwE12to_char_typeERKt DY  ö[  Éù   '«  á!ôå  
+ö[  Ï  ﬁ _ZNSt11char_traitsIwE11to_int_typeERKw ö[  Í[  qù     ‚ _ZNSt11char_traitsIwE11eq_int_typeERKtS2_ –ú  0\  Éù  Éù   ^eof Ê _ZNSt11char_traitsIwE3eofEv ö[  not_eof Í _ZNSt11char_traitsIwE7not_eofERKt ö[  ñ\  Éù   
+B  )ê   0
+âù  1
+®ù  2
+…ù  3
+Íù  5
+Ωû  6
+Êû  7
+ü  8
+<ü  :
+
+û  ;
+6û  <
+cû  =
+êû  ?
+gü  @
+vå  B
+òù  C
+∏ù  D
+Ÿù  E
+˙ù  G
+—û  H
+˚û  I
+&ü  J
+Qü  L
+ û  M
+Lû  N
+yû  O
+¶û  Q
+xü  R
+áå  5
+ôê  6
+∂ü  7
+◊ü  	ptrdiff_t Ô`å  <allocator<char> l
+G^  xr   !)   É _ZNSaIcEC4Ev Ë]  Ó]  t°   !)   Ö _ZNSaIcEC4ERKS_ ^  ^  t°  °   y~allocator ã _ZNSaIcED4Ev ;^  t°  ‘å    
+™]  
+±°  Ä
+Ï°  Ü
+º£  å
+÷£  ç
+Ó£  é
+§  è
+§  ë
+h§  î
+Ñ§  ñ
+û§  ô
+ª§  ö
+Ÿ§  õ
+ˇ§  ù
+#•  £
+G•  •
+U•  ¶
+j•  ß
+â•  ®
+≠•  ©
+“•  ´
+Î•  ¨
+¶  ô£  ıru  ˆ0¶  ¯N¶  ˘≤¶  ˙g¶  ˚å¶  ¸—¶  b
+ì  c
+¢ü  e
+Ò¶  f
+	ß  g
+#ß  h
+;ß  i
+Uß  j
+oß  k
+àß  l
+Æß  m
+—ß  n
+Ôß  q
+®  r
+8®  s
+]®  t
+}®  u
+†®  v
+∆®  x
+ﬂ®  y
+˜®  ~
+©  
+©  É
+9©  Ñ
+S©  Ö
+r©  Ü
+à©  á
+¢©  à
+Ω©  â
+Á©  ä
+™  ã
+(™  ç
+9™  è
+S™  ê
+r™  ë
+ò™  í
+∏™  πﬁ™  ∫´  ª*´  ºI´  Ωu´  &allocator_traits<std::allocator<char> > ÄÓb  '-  àê  ¯  ≥ _ZNSt16allocator_traitsISaIcEE8allocateERS0_y ∂`  
+a  ö´  a   'r  É,™]  
+
+a  '    ó$€X  ¯  ¡ _ZNSt16allocator_traitsISaIcEE8allocateERS0_yPKv ∂`  ~a  ö´  a  ~a   "const_void_pointer ë-I°  .L  Õ _ZNSt16allocator_traitsISaIcEE10deallocateERS0_Pcy Ía  ö´  ∂`  a   5  Ô _ZNSt16allocator_traitsISaIcEE8max_sizeERKS0_ a  /b  †´   select_on_container_copy_construction ¯ _ZNSt16allocator_traitsISaIcEE37select_on_container_copy_constructionERKS0_ 
+a  ¥b  †´   'ê   Ö%å  '  ã'£ï  "rebind_alloc ¶%™]  
+Í  ™]   <initializer_list<char> /
+ïd  ∞  6£ï  _M_array :c       5€X  _M_len ;-c  D>  >_ZNSt16initializer_listIcEC4EPKcy |c  åc  ¨  åc  -c      7£ï  !>  B_ZNSt16initializer_listIcEC4Ev …c  œc  ¨   9size G _ZNKSt16initializer_listIcE4sizeEv -c  d  d  ¨   9begin K _ZNKSt16initializer_listIcE5beginEv åc  Id  Od  ¨   9end O _ZNKSt16initializer_listIcE3endEv åc  Üd  åd  ¨   _E %å   
+Ób  Jreverse_iterator<__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > Jreverse_iterator<__gnu_cxx::__normal_iterator<char const*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > Wliterals Âe  _string_literals 
+>
+∆e   >¥e  z_V2 GOGÓe  /ios_base µf  {Init [
+Init _ _ZNSt8ios_base4InitC4Ev Cf  If  ¨   ~Init ` _ZNSt8ios_base4InitD4Ev uf  Äf  ¨  ‘å   `_S_refcount c4°  `_S_synced_with_stdio d–ú    R
+ ¨  S
+√å  T
+ôå  \
+2¨  e
+S¨  h
+t¨  i
+é¨  /basic_ostream<char, std::char_traits<char> > 2g  
+B  %å  *
+  (U   /basic_ostream<wchar_t, std::char_traits<wchar_t> > }g  
+B  )ê  *
+  ÍX   /basic_istream<char, std::char_traits<char> > ¬g  
+B  %å  *
+  (U   /basic_istream<wchar_t, std::char_traits<wchar_t> > 
+h  
+B  )ê  *
+  ÍX   	istream ä!}g  %cin  <_ZSt3cin 
+h  	ostream ç!Ìf  %cout  =_ZSt4cout 2h  %cerr  >_ZSt4cerr 2h  %clog  ?_ZSt4clog 2h  	wistream ≤#¬g  %wcin  B_ZSt4wcin áh  	wostream µ#2g  %wcout  C_ZSt5wcout Øh  %wcerr  D_ZSt5wcerr Øh  %wclog  E_ZSt5wclog Øh  |__ioinit  Jf   abs f_ZSt3absg Ø√  <i  Ø√    abs T_ZSt3absn ù  \i  ù    abs N_ZSt3abse ;ú  |i  ;ú    abs J_ZSt3absf ˝ô  úi  ˝ô    abs F_ZSt3absd Œô  ºi  Œô    abs =_ZSt3absx `å  ‹i  `å    abs 8_ZSt3absl ‡å  ¸i  ‡å    div ±_ZSt3divll Ï°  "j  ‡å  ‡å   <
+:Ô  =
+ˇå  >
+áì  @
+”Ô  A
+·Ô  B
+  C
+   D
+=  E
+W  F
+u  G
+é  iterator_traits<char*> ≤»j  ˇ  ∂+ò]  -  ∑+ê  ¢  ∏+h°  
+P   ê   iterator_traits<char const*> Ωk  ˇ  ¡+ò]  -  ¬+£ï  ¢  √+n°  
+P   £ï   =    .
+Xk  G    .%_ZNSt15allocator_arg_tC4Ev Qk  ‰    
+k  ]allocator_arg  0/Xk   }_Swallow_assign !`
+
+uk  ~ignore !j/ãk   __iterator_traits<__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >, void> ìPl  ˇ  ú5(~  
+P   4y   /basic_ofstream<char, std::char_traits<char> > ñl  
+B  %å  *
+  (U   &remove_reference<std::allocator<char>&> 
+º‡l  "type 
+Ω™]  _Tp ¶´   &remove_reference<main()::<lambda(unsigned char)>&> 
+º5m  "type 
+ΩÂ˚  _Tp 4n   __count_if<__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char> >, __gnu_cxx::__ops::_Iter_pred<main()::<lambda(unsigned char)> > > v:l  ¯m  
+€   4y  
+  Õp  4y  4y  Õp   move<main()::<lambda(unsigned char)>&> c0˜  @n  _Tp 4n  Â˚  4n    move<std::allocator<char>&> c_ZSt4moveIRSaIcEEONSt16remove_referenceIT_E4typeEOS3_ Æ¯  ≠n  _Tp ¶´  ¶´   operator==<char, std::char_traits<char>, std::allocator<char> > õ_ZSteqIcSt11char_traitsIcESaIcEEbRKNSt7__cxx1112basic_stringIT_T0_T1_EEPKS5_ –ú  mo  
+B  %å  
+
+  (U  
+Í  ™]  ¸´  £ï   count_if<__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char> >, main()::<lambda(unsigned char)> > :l  p  _IIter 4y  
+  Â˚  4y  4y  Â˚   	ifstream ¢"#p  /basic_ifstream<char, std::char_traits<char> > ip  
+B  %å  *
+  (U   	ofstream •"Pl   Ä__gnu_cxx 
+å  ___cxx11 A>Aèp  	¯
+ú  	
+Jú  	
+oú  H__ops #
+r  &_Iter_pred<main()::<lambda(unsigned char)> > æq  _M_pred Â˚   Å_Iter_pred  /q  :q  Ò  Â˚   Çoperator()<__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char> > > –ú  ©q  ¥q  
+P   4y  Ò  4y   
+  Â˚   É__pred_iter<main()::<lambda(unsigned char)> >  Õp  
+  Â˚  Â˚    ",€X  "-ò]  <new_allocator<char> ":
+‘t  !   "O _ZN9__gnu_cxx13new_allocatorIcEC4Ev hr  nr  Q°   !   "Q _ZN9__gnu_cxx13new_allocatorIcEC4ERKS1_ ßr  ≤r  Q°  \°   I~new_allocator "V _ZN9__gnu_cxx13new_allocatorIcED4Ev Úr  ˝r  Q°  ‘å   -  "?ê  9address "Y _ZNK9__gnu_cxx13new_allocatorIcE7addressERc ˝r  Os  Zs  b°  Zs   ¢  "Ah°    "@£ï  9address "] _ZNK9__gnu_cxx13new_allocatorIcE7addressERKc gs  ∫s  ≈s  b°  ≈s   ∑  "Bn°  ?¯  "c _ZN9__gnu_cxx13new_allocatorIcE8allocateEyPKv ˝r  t  %t  Q°  %t  I°       "=€X  !L  "t _ZN9__gnu_cxx13new_allocatorIcE10deallocateEPcy st  Ét  Q°  ˝r  %t   ?5  "Å _ZNK9__gnu_cxx13new_allocatorIcE8max_sizeEv %t  ƒt   t  b°   _Tp %å   
+r  __numeric_traits_integer<int> #7:u  
+‰  #:€å  
+y  #;€å  
+Í   #?ÿú  
+i  #@€å  
+A   ‘å   »
+ô£  ÿ
+0¶  „
+N¶  ‰
+g¶  Â
+å¶  Á
+≤¶  Ë
+—¶   div ’_ZN9__gnu_cxx3divExx ô£  ¢u  `å  `å   Ø
+ﬁ™  ∞
+´  ±
+*´  ≤
+I´  ≥
+u´  __alloc_traits<std::allocator<char>, char> $2
+4y  $2
+,a  $2
+√`  $2
+öa  $2
+Ía  XÑ`    _S_select_on_copy $^_ZN9__gnu_cxx14__alloc_traitsISaIcEcE17_S_select_on_copyERKS1_ ™]  áv  °   Ñ_S_on_swap $a_ZN9__gnu_cxx14__alloc_traitsISaIcEcE10_S_on_swapERS1_S3_ ‡v  ¶´  ¶´   :_S_propagate_on_copy_assign $d_ZN9__gnu_cxx14__alloc_traitsISaIcEcE27_S_propagate_on_copy_assignEv –ú  :_S_propagate_on_move_assign $g_ZN9__gnu_cxx14__alloc_traitsISaIcEcE27_S_propagate_on_move_assignEv –ú  :_S_propagate_on_swap $j_ZN9__gnu_cxx14__alloc_traitsISaIcEcE20_S_propagate_on_swapEv –ú  :_S_always_equal $m_ZN9__gnu_cxx14__alloc_traitsISaIcEcE15_S_always_equalEv –ú  :_S_nothrow_move $p_ZN9__gnu_cxx14__alloc_traitsISaIcEcE15_S_nothrow_moveEv –ú  ê   $:5¥b  
+Øx  -  $;5∂`    $<5¡b      $=5a  ¢  $@5¨´  ∑  $A5≤´  rebind<char> $t*y  	other $uAŒb  _Tp %å   
+Í  ™]   a__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > ˘
+¡Ä  b  ¸ê     _ZN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEC4Ev 'z  -z  ™   F   _ZN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEC4ERKS1_ †z  ´z  ™  µ   2¢  2≤j  W   _ZNK9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEdeEv ´z  -{  3{  ª   2-  2¶j  ¶    _ZNK9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEptEv 3{  µ{  ª{  ª   ,  ! _ZN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEppEv ∆  .|  4|  ™   ,  ( _ZN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEppEi 4y  ß|  ≤|  ™  ‘å   u   - _ZN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEmmEv ∆  %}  +}  ™   u   4 _ZN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEmmEi 4y  û}  ©}  ™  ‘å   !  9 _ZNK9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEixEx ´z  ~  (~  ª  (~   2ˇ  8öj  7  = _ZN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEpLEx ∆  ©~  ¥~  ™  (~   a  A _ZNK9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEplEx 4y  (  3  ª  (~   õ   E _ZN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEmIEx ∆  ¶  ±  ™  (~   k  I _ZNK9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEmiEx 4y  %Ä  0Ä  ª  (~   base M _ZNK9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE4baseEv µ  ®Ä  ÆÄ  ª   
+P   ê  
+ó  ø    
+4y  a__normal_iterator<char const*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > ˘
+gà  b  ¸£ï     _ZN9__gnu_cxx17__normal_iteratorIPKcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEC4Ev ¿Å  ∆Å  Ã   F   _ZN9__gnu_cxx17__normal_iteratorIPKcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEC4ERKS2_ :Ç  EÇ  Ã  “   2¢  2k  W   _ZNK9__gnu_cxx17__normal_iteratorIPKcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEdeEv EÇ  »Ç  ŒÇ  ÿ   2-  2˙j  ¶    _ZNK9__gnu_cxx17__normal_iteratorIPKcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEptEv ŒÇ  QÉ  WÉ  ÿ   ,  ! _ZN9__gnu_cxx17__normal_iteratorIPKcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEppEv ﬁ  ÀÉ  —É  Ã   ,  ( _ZN9__gnu_cxx17__normal_iteratorIPKcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEppEi ∆Ä  EÑ  PÑ  Ã  ‘å   u   - _ZN9__gnu_cxx17__normal_iteratorIPKcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEmmEv ﬁ  ƒÑ   Ñ  Ã   u   4 _ZN9__gnu_cxx17__normal_iteratorIPKcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEmmEi ∆Ä  >Ö  IÖ  Ã  ‘å   !  9 _ZNK9__gnu_cxx17__normal_iteratorIPKcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEixEx EÇ  æÖ  …Ö  ÿ  …Ö   2ˇ  8Ój  7  = _ZN9__gnu_cxx17__normal_iteratorIPKcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEpLEx ﬁ  KÜ  VÜ  Ã  …Ö   a  A _ZNK9__gnu_cxx17__normal_iteratorIPKcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEplEx ∆Ä  ÀÜ  ÷Ü  ÿ  …Ö   õ   E _ZN9__gnu_cxx17__normal_iteratorIPKcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEmIEx ﬁ  Já  Uá  Ã  …Ö   k  I _ZNK9__gnu_cxx17__normal_iteratorIPKcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEmiEx ∆Ä   á  ’á  ÿ  …Ö   base M _ZNK9__gnu_cxx17__normal_iteratorIPKcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE4baseEv “  Nà  Tà  ÿ   
+P   £ï  
+ó  ø    
+∆Ä  __numeric_traits_floating<float> #d–à  
+0  #g€å  
+Í   #jÿú  
+¨  #k€å  
+X  #l€å  
+A   ˝ô   __numeric_traits_floating<double> #d5â  
+0  #g€å  
+Í   #jÿú  
+¨  #k€å  
+X  #l€å  
+A   Œô   __numeric_traits_floating<long double> #düâ  
+0  #g€å  
+Í   #jÿú  
+¨  #k€å  
+X  #l€å  
+A   ;ú   __numeric_traits_integer<long unsigned int> #7ä  
+‰  #:tê  
+y  #;tê  
+Í   #?ÿú  
+i  #@€å  
+A   _ê   __numeric_traits_integer<char> #7pä  
+‰  #:-å  
+y  #;-å  
+Í   #?ÿú  
+i  #@€å  
+A   %å   __numeric_traits_integer<short int> #7◊ä  
+‰  #:Çì  
+y  #;Çì  
+Í   #?ÿú  
+i  #@€å  
+A   uì   __numeric_traits_integer<long long int> #7Bã  
+‰  #:qå  
+y  #;qå  
+Í   #?ÿú  
+i  #@€å  
+A   `å   Öoperator!=<char*, std::__cxx11::basic_string<char> > q_ZN9__gnu_cxxneIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEbRKNS_17__normal_iteratorIT_T0_EESD_ –ú  
+P   ê  
+ó  ø   ÷ı  ÷ı    Ü__builtin_va_list %å  char 
+%å  	size_t %#,Aå   long long unsigned int 
+Aå  long long int 
+`å  	intptr_t %>#`å  	uintptr_t %K,Aå  	wint_t %j®å   short unsigned int 
+®å  	wctype_t %k®å  int 
+‘å  long int 	__time64_t %{#`å  	time_t %äÏå  
+ˇå  "pthreadlocinfo %®(+ç  1ç  áthreadlocaleinfostruct `%º-è  à %¬
+•ç  locale %√
+ê   wlocale %ƒ#ê  cá   %≈
+9ê  wrefcount %∆
+9ê   cá   %Ω ‘å   lc_codepage %æ?ê  lc_collate_cp %ø?ê  lc_handle %¿Oê  lc_id %¡yê  $lc_category %«âê  Hlc_clike %» ‘å  mb_cur_max %… ‘å  lconv_intl_refcount % 9ê  lconv_num_refcount %À9ê  lconv_mon_refcount %Ã9ê   lconv %ÕKí  (ctype1_refcount %Œ9ê  0ctype1 %œQí  8pctype %–Wí  @pclmap %—]í  Hpcumap %“]í  Plc_time_curr %”âí  X "pthreadmbcinfo %©%Eè  Kè  dthreadmbcinfostruct &localeinfo_struct %¨°è  locinfo %≠ç   mbcinfo %Æ-è   "_locale_tstruct %Ø`è  &tagLC_ID %≥	ê  wLanguage %¥®å   wCountry %µ®å  wCodePage %∂®å   "LC_ID %∑∫è  %å  
+ê  )ê   wchar_t 
+)ê  ‘å   unsigned int (_ê  _ê  0Aå    long unsigned int 
+_ê  (	ê  âê  0Aå   (Tç  ôê  0Aå   lconv X&-
+Kí  decimal_point &.
+ê   thousands_sep &/
+ê  grouping &0
+ê  int_curr_symbol &1
+ê  currency_symbol &2
+ê   mon_decimal_point &3
+ê  (mon_thousands_sep &4
+ê  0mon_grouping &5
+ê  8positive_sign &6
+ê  @negative_sign &7
+ê  Hint_frac_digits &8
+%å  Pfrac_digits &9
+%å  Qp_cs_precedes &:
+%å  Rp_sep_by_space &;
+%å  Sn_cs_precedes &<
+%å  Tn_sep_by_space &=
+%å  Up_sign_posn &>
+%å  Vn_sign_posn &?
+%å  W ôê  ®å  æå  tí  unsigned char 
+cí  d__lc_time_data yí  _iobuf 0')
+ì  _ptr '*
+ê   _cnt '+	‘å  _base ',
+ê  _flag '-	‘å  _file '.	‘å  _charbuf '/	‘å   _bufsiz '0	‘å  $_tmpfname '1
+ê  ( 	FILE '3èí  __imp__pctype '∫Bì  Qí  __imp__wctype '…Bì  __imp__pwctype 'ÿBì  short int 
+uì  &tm $'Q
+5î  tm_sec 'R	‘å   tm_min 'S	‘å  tm_hour 'T	‘å  tm_mday 'U	‘å  tm_mon 'V	‘å  tm_year 'W	‘å  tm_wday 'X	‘å  tm_yday 'Y	‘å  tm_isdst 'Z	‘å    
+áì  "mbstate_t 'à‘å  
+:î   btowc 'ãôå  kî  ‘å    fgetwc 'ôå  Öî  Öî   ì   fgetws '#ê  Øî  #ê  ‘å  Öî    fputwc 'ôå  Œî  )ê  Öî    fputws '
+‘å  Ìî  Ìî  Öî   4ê   fwide 'ö‘å  ï  Öî  ‘å   fwprintf 'I‘å  3ï  Öî  Ìî   fwscanf '%‘å  Tï  Öî  Ìî    getwc ' ôå  mï  Öî   @getwchar 'ôå   mbrlen 'å2å  £ï  £ï  2å  Æï   -å  
+£ï  :î   mbrtowc 'ç2å  ﬁï  #ê  £ï  2å  Æï    mbsinit 'õ‘å  ˘ï  ˘ï   Mî   mbsrtowcs 'é2å  +ñ  #ê  +ñ  2å  Æï   £ï   putwc '	ôå  Oñ  )ê  Öî    putwchar '
+ôå  kñ  )ê   A€  (>‘å  áñ  #ê  Ìî   A€  ("‘å  ®ñ  #ê  2å  Ìî   swscanf '‘å  …ñ  Ìî  Ìî    ungetwc '
+ôå  Èñ  ôå  Öî   vfwprintf '_‘å  ó  Öî  Ìî  å   vfwscanf '?‘å  6ó  Öî  Ìî  å   A  (3‘å  Vó  #ê  Ìî  å   A  (‘å  {ó  #ê  2å  Ìî  å   vswscanf '1‘å  °ó  Ìî  Ìî  å   vwprintf 'f‘å  ¬ó  Ìî  å   vwscanf '8‘å  ‚ó  Ìî  å    wcrtomb 'è2å   ò  ê  )ê  Æï    wcscat '#ê  &ò  #ê  Ìî    wcscmp '‘å  Eò  Ìî  Ìî    wcscoll '8‘å  eò  Ìî  Ìî    wcscpy '#ê  Ñò  #ê  Ìî    wcscspn '2å  §ò  Ìî  Ìî    wcsftime 'e2å  œò  #ê  2å  Ìî  œò   5î   wcslen '2å  Ôò  Ìî    wcsncat ' #ê  ô  #ê  Ìî  2å    wcsncmp '!‘å  9ô  Ìî  Ìî  2å    wcsncpy '"#ê  ^ô  #ê  Ìî  2å    wcsrtombs 'ê2å  äô  ê  äô  2å  Æï   Ìî   wcsspn '&2å  Øô  Ìî  Ìî   wcstod 'ﬁŒô  Œô  Ìî  ÿô   double #ê  wcstof '‚˝ô  ˝ô  Ìî  ÿô   float  wcstok '(#ê  %ö  #ê  Ìî    wcstol 'Ì‡å  Iö  Ìî  ÿô  ‘å    wcstoul 'Ô_ê  nö  Ìî  ÿô  ‘å    wcsxfrm '62å  ìö  #ê  Ìî  2å    wctob 'ë‘å  ¨ö  ôå    wmemcmp 'ñ‘å  —ö  Ìî  Ìî  2å    wmemcpy 'ó#ê  ˆö  #ê  Ìî  2å    wmemmove 'ô#ê  õ  #ê  Ìî  2å    wmemset 'î#ê  Aõ  #ê  )ê  2å   wprintf 'T‘å  ]õ  Ìî   wscanf '‘å  xõ  Ìî    wcschr '"#ê  óõ  Ìî  )ê    wcspbrk '$"#ê  ∑õ  Ìî  Ìî    wcsrchr '%"#ê  ◊õ  Ìî  )ê    wcsstr ''"#ê  ˆõ  Ìî  Ìî    wmemchr 'ï"#ê  ú  Ìî  )ê  2å    wcstold 'Î;ú  ;ú  Ìî  ÿô   long double  wcstoll 'ú'`å  oú  Ìî  ÿô  ‘å    wcstoull 'ù0Aå  ïú  Ìî  ÿô  ‘å   K  âÅK  ÍO  ÍO  ädecltype(nullptr) 3ÅK  ÅK  bool 
+–ú  yP  àQ  ïR  ¿S   __int128 unsigned signed char __int128 ∑T  P˛T  H__gnu_debug 8
+Mù  O:U   U  åU  åU  U  ‚W  DY  QY  QY  DY  ß[  	int8_t )#
+ù  	uint8_t )$cí  	int16_t )%uì  	uint16_t )&®å  	int32_t )'‘å  	uint32_t )(?ê  	int64_t ))&`å  	uint64_t )*0Aå  	int_least8_t )-
+ù  	uint_least8_t ).cí  	int_least16_t )/uì  	uint_least16_t )0®å  	int_least32_t )1‘å  	uint_least32_t )2?ê  	int_least64_t )3&`å  	uint_least64_t )40Aå  	int_fast8_t ):
+ù  	uint_fast8_t );cí  	int_fast16_t )<uì  	uint_fast16_t )=®å  	int_fast32_t )>‘å  	uint_fast32_t )??ê  	int_fast64_t )@&`å  	uint_fast64_t )A0Aå  	intmax_t )D&`å  	uintmax_t )E0Aå  char16_t char32_t 	fpos_t *h%`å  
+¢ü  setlocale &Pê  ◊ü  ‘å  £ï   elocaleconv &Q!Kí  (tí  ıü  f __newclmap +PÍü  __newcumap +QÍü  __ptlocinfo +Rç  __ptmbcinfo +S-è  __globallocalestatus +T‘å  __locale_changed +U‘å  __initiallocinfo +V(1ç  __initiallocalestructinfo +W°è  __imp___mb_cur_max +À9ê  ’†  ã›†  gË†  ‘å   __security_cookie ,}áå  g
+°  õú   °  _pthread_key_dest -#.°  
+°  	_Atomic_word . 
+‘å  O°  år  
+Q°  ‘t  ‘t  %å  -å  ™]  
+t°  G^  _div_t /;±°  quot /<	‘å   rem /=	‘å   	div_t />Ö°  _ldiv_t /@Ï°  quot /A
+‡å   rem /B
+‡å   	ldiv_t /Cø°  (ê  
+¢  0Aå    _sys_errlist /¨&˚°  _sys_nerr /≠$‘å  __imp___argc /9ê  __imp___argv /^¢  d¢  ê  __imp___wargv /!Å¢  ÿô  __imp__environ /'^¢  __imp__wenviron /,Å¢  __imp__pgmptr /2d¢  __imp__wpgmptr /7ÿô  __imp__osplatform /<£  ?ê  __imp__osver /A£  __imp__winver /F£  __imp__winmajor /K£  __imp__winminor /P£  ç/ª7lldiv_t ô£  quot /ª0`å   rem /ª6`å   "lldiv_t /ª=g£  _amblksiz 05?ê   atexit /ä‘å  ÷£  œ†    atof /çŒô  Ó£  £ï    atoi /ê‘å  §  £ï    atol /í‡å  §  £ï    bsearch /ñõú  M§  I°  I°  2å  2å  M§   S§  é‘å  h§  I°  I°    div /ú±°  Ñ§  ‘å  ‘å    getenv /ùê  û§  £ï    ldiv /ßÏ°  ª§  ‡å  ‡å    mblen /©‘å  Ÿ§  £ï  2å    mbstowcs /±2å  ˇ§  #ê  £ï  2å    mbtowc /Ø‘å  #•  #ê  £ï  2å   4qsort /óG•  õú  2å  2å  M§   @rand /¥‘å  4srand /∂j•  ?ê   strtod /¬ Œô  â•  £ï  d¢    strtol /Â‡å  ≠•  £ï  d¢  ‘å    strtoul /Á_ê  “•  £ï  d¢  ‘å   system ,U‘å  Î•  £ï    wcstombs /2å  ¶  ê  Ìî  2å    wctomb /Ó‘å  0¶  ê  )ê    lldiv /Ω%ô£  N¶  `å  `å    atoll /»(`å  g¶  £ï    strtoll /ƒ(`å  å¶  £ï  d¢  ‘å    strtoull /≈1Aå  ≤¶  £ï  d¢  ‘å   strtof /…˝ô  —¶  £ï  d¢    strtold /‘';ú  Ò¶  £ï  d¢   4clearerr *B	ß  Öî    fclose *C‘å  #ß  Öî    feof *J‘å  ;ß  Öî    ferror *K‘å  Uß  Öî    fflush *L‘å  oß  Öî    fgetc *M‘å  àß  Öî    fgetpos *O‘å  ®ß  Öî  ®ß   ¢ü   fgets *Qê  —ß  ê  ‘å  Öî    fopen *XÖî  Ôß  £ï  £ï   fprintf *N‘å  ®  Öî  £ï    fread *]2å  8®  õú  2å  2å  Öî    freopen *^Öî  ]®  £ï  £ï  Öî   fscanf *!‘å  }®  Öî  £ï    fseek *a‘å  †®  Öî  ‡å  ‘å    fsetpos *_‘å  ¿®  Öî  ¿®   ±ü   ftell *b‡å  ﬂ®  Öî    getc *è‘å  ˜®  Öî   @getchar *ê‘å  4perror *ñ©  £ï   printf *Y‘å  9©  £ï    remove *§‘å  S©  £ï    rename *•‘å  r©  £ï  £ï   4rewind *´à©  Öî   scanf *‘å  ¢©  £ï   4setbuf *≠Ω©  Öî  ê    setvbuf *±‘å  Á©  Öî  ê  ‘å  2å   sprintf *d‘å  ™  ê  £ï   sscanf *
+‘å  (™  £ï  £ï   @tmpfile *ÀÖî   tmpnam *Ãê  S™  ê    ungetc *Õ‘å  r™  ‘å  Öî   vfprintf *o‘å  ò™  Öî  £ï  å   vprintf *v‘å  ∏™  £ï  å   vsprintf *}‘å  ﬁ™  ê  £ï  å   snprintf *Ñ‘å  ´  ê  2å  £ï   vfscanf *@‘å  *´  Öî  £ï  å   vscanf *9‘å  I´  £ï  å   vsnprintf *è‘å  u´  ê  2å  £ï  å   vsscanf *2‘å  ö´  £ï  £ï  å   
+a  a  ™]  Øx  ªx  
+  
+∏´  3™]  (%å  Ÿ´  0Aå   ø   
+Ÿ´  ∫H  ∑  d  q  ∫H  3ø   ø   Ób  ïd  f  	wctrans_t 1Æ)ê   iswctype '#‘å  S¨  ôå  √å   towctrans 1Øôå  t¨  ôå   ¨   wctrans 1∞ ¨  é¨  £ï   wctype 1±√å  ß¨  £ï   è
+i  	        	_PHNDLR 2?◊†  _XCPT_ACTION 2A
+≠  XcptNum 2B_ê   SigNum 2C	‘å  XcptAction 2D
+∑¨   («¨  ≠  f _XcptActTab 2G≠  _XcptActTabCount 2H‘å  _XcptActTabSize 2I‘å  _First_FPE_Indx 2J‘å  _Num_FPE 2K‘å  	DWORD 3ç_ê  _GUID 4Ê≠  Data1 4_ê   Data2 4®å  Data3 4®å  Data4 4Ê≠   (cí  ˆ≠  0Aå    	GUID 4ö≠  
+ˆ≠  	IID 4Sˆ≠  
+Æ  	CLSID 4[ˆ≠  
+Æ  	FMTID 4bˆ≠  
+,Æ  GUID_MAX_POWER_SAVINGS 5©Æ  GUID_MIN_POWER_SAVINGS 5™Æ  GUID_TYPICAL_POWER_SAVINGS 5´Æ  NO_SUBGROUP_GUID 5¨Æ  ALL_POWERSCHEMES_GUID 5≠Æ  GUID_POWERSCHEME_PERSONALITY 5ÆÆ  GUID_ACTIVE_POWERSCHEME 5ØÆ  GUID_IDLE_RESILIENCY_SUBGROUP 5∞Æ  GUID_IDLE_RESILIENCY_PERIOD 5±Æ  GUID_DISK_COALESCING_POWERDOWN_TIMEOUT 5≤Æ  GUID_EXECUTION_REQUIRED_REQUEST_TIMEOUT 5≥Æ  GUID_VIDEO_SUBGROUP 5¥Æ  GUID_VIDEO_POWERDOWN_TIMEOUT 5µÆ  GUID_VIDEO_ANNOYANCE_TIMEOUT 5∂Æ  GUID_VIDEO_ADAPTIVE_PERCENT_INCREASE 5∑Æ  GUID_VIDEO_DIM_TIMEOUT 5∏Æ  GUID_VIDEO_ADAPTIVE_POWERDOWN 5πÆ  GUID_MONITOR_POWER_ON 5∫Æ  GUID_DEVICE_POWER_POLICY_VIDEO_BRIGHTNESS 5ªÆ  GUID_DEVICE_POWER_POLICY_VIDEO_DIM_BRIGHTNESS 5ºÆ  GUID_VIDEO_CURRENT_MONITOR_BRIGHTNESS 5ΩÆ  GUID_VIDEO_ADAPTIVE_DISPLAY_BRIGHTNESS 5æÆ  GUID_CONSOLE_DISPLAY_STATE 5øÆ  GUID_ALLOW_DISPLAY_REQUIRED 5¿Æ  GUID_VIDEO_CONSOLE_LOCK_TIMEOUT 5¡Æ  GUID_ADAPTIVE_POWER_BEHAVIOR_SUBGROUP 5¬Æ  GUID_NON_ADAPTIVE_INPUT_TIMEOUT 5√Æ  GUID_DISK_SUBGROUP 5ƒÆ  GUID_DISK_POWERDOWN_TIMEOUT 5≈Æ  GUID_DISK_IDLE_TIMEOUT 5∆Æ  GUID_DISK_BURST_IGNORE_THRESHOLD 5«Æ  GUID_DISK_ADAPTIVE_POWERDOWN 5»Æ  GUID_SLEEP_SUBGROUP 5…Æ  GUID_SLEEP_IDLE_THRESHOLD 5 Æ  GUID_STANDBY_TIMEOUT 5ÀÆ  GUID_UNATTEND_SLEEP_TIMEOUT 5ÃÆ  GUID_HIBERNATE_TIMEOUT 5ÕÆ  GUID_HIBERNATE_FASTS4_POLICY 5ŒÆ  GUID_CRITICAL_POWER_TRANSITION 5œÆ  GUID_SYSTEM_AWAYMODE 5–Æ  GUID_ALLOW_AWAYMODE 5—Æ  GUID_ALLOW_STANDBY_STATES 5“Æ  GUID_ALLOW_RTC_WAKE 5”Æ  GUID_ALLOW_SYSTEM_REQUIRED 5‘Æ  GUID_SYSTEM_BUTTON_SUBGROUP 5’Æ  GUID_POWERBUTTON_ACTION 5÷Æ  GUID_SLEEPBUTTON_ACTION 5◊Æ  GUID_USERINTERFACEBUTTON_ACTION 5ÿÆ  GUID_LIDCLOSE_ACTION 5ŸÆ  GUID_LIDOPEN_POWERSTATE 5⁄Æ  GUID_BATTERY_SUBGROUP 5€Æ  GUID_BATTERY_DISCHARGE_ACTION_0 5‹Æ  GUID_BATTERY_DISCHARGE_LEVEL_0 5›Æ  GUID_BATTERY_DISCHARGE_FLAGS_0 5ﬁÆ  GUID_BATTERY_DISCHARGE_ACTION_1 5ﬂÆ  GUID_BATTERY_DISCHARGE_LEVEL_1 5‡Æ  GUID_BATTERY_DISCHARGE_FLAGS_1 5·Æ  GUID_BATTERY_DISCHARGE_ACTION_2 5‚Æ  GUID_BATTERY_DISCHARGE_LEVEL_2 5„Æ  GUID_BATTERY_DISCHARGE_FLAGS_2 5‰Æ  GUID_BATTERY_DISCHARGE_ACTION_3 5ÂÆ  GUID_BATTERY_DISCHARGE_LEVEL_3 5ÊÆ  GUID_BATTERY_DISCHARGE_FLAGS_3 5ÁÆ  GUID_PROCESSOR_SETTINGS_SUBGROUP 5ËÆ  GUID_PROCESSOR_THROTTLE_POLICY 5ÈÆ  GUID_PROCESSOR_THROTTLE_MAXIMUM 5ÍÆ  GUID_PROCESSOR_THROTTLE_MINIMUM 5ÎÆ  GUID_PROCESSOR_ALLOW_THROTTLING 5ÏÆ  GUID_PROCESSOR_IDLESTATE_POLICY 5ÌÆ  GUID_PROCESSOR_PERFSTATE_POLICY 5ÓÆ  GUID_PROCESSOR_PERF_INCREASE_THRESHOLD 5ÔÆ  GUID_PROCESSOR_PERF_DECREASE_THRESHOLD 5Æ  GUID_PROCESSOR_PERF_INCREASE_POLICY 5ÒÆ  GUID_PROCESSOR_PERF_DECREASE_POLICY 5ÚÆ  GUID_PROCESSOR_PERF_INCREASE_TIME 5ÛÆ  GUID_PROCESSOR_PERF_DECREASE_TIME 5ÙÆ  GUID_PROCESSOR_PERF_TIME_CHECK 5ıÆ  GUID_PROCESSOR_PERF_BOOST_POLICY 5ˆÆ  GUID_PROCESSOR_PERF_BOOST_MODE 5˜Æ  GUID_PROCESSOR_IDLE_ALLOW_SCALING 5¯Æ  GUID_PROCESSOR_IDLE_DISABLE 5˘Æ  GUID_PROCESSOR_IDLE_STATE_MAXIMUM 5˙Æ  GUID_PROCESSOR_IDLE_TIME_CHECK 5˚Æ  GUID_PROCESSOR_IDLE_DEMOTE_THRESHOLD 5¸Æ  GUID_PROCESSOR_IDLE_PROMOTE_THRESHOLD 5˝Æ  GUID_PROCESSOR_CORE_PARKING_INCREASE_THRESHOLD 5˛Æ  GUID_PROCESSOR_CORE_PARKING_DECREASE_THRESHOLD 5ˇÆ  GUID_PROCESSOR_CORE_PARKING_INCREASE_POLICY 5 Æ  GUID_PROCESSOR_CORE_PARKING_DECREASE_POLICY 5Æ  GUID_PROCESSOR_CORE_PARKING_MAX_CORES 5Æ  GUID_PROCESSOR_CORE_PARKING_MIN_CORES 5Æ  GUID_PROCESSOR_CORE_PARKING_INCREASE_TIME 5Æ  GUID_PROCESSOR_CORE_PARKING_DECREASE_TIME 5Æ  GUID_PROCESSOR_CORE_PARKING_AFFINITY_HISTORY_DECREASE_FACTOR 5Æ  GUID_PROCESSOR_CORE_PARKING_AFFINITY_HISTORY_THRESHOLD 5 Æ  GUID_PROCESSOR_CORE_PARKING_AFFINITY_WEIGHTING 5Æ  GUID_PROCESSOR_CORE_PARKING_OVER_UTILIZATION_HISTORY_DECREASE_FACTOR 5	Æ  GUID_PROCESSOR_CORE_PARKING_OVER_UTILIZATION_HISTORY_THRESHOLD 5
+Æ  GUID_PROCESSOR_CORE_PARKING_OVER_UTILIZATION_WEIGHTING 5
+Æ  GUID_PROCESSOR_CORE_PARKING_OVER_UTILIZATION_THRESHOLD 5Æ  GUID_PROCESSOR_PARKING_CORE_OVERRIDE 5
+Æ  GUID_PROCESSOR_PARKING_PERF_STATE 5Æ  GUID_PROCESSOR_PARKING_CONCURRENCY_THRESHOLD 5Æ  GUID_PROCESSOR_PARKING_HEADROOM_THRESHOLD 5Æ  GUID_PROCESSOR_PERF_HISTORY 5Æ  GUID_PROCESSOR_PERF_LATENCY_HINT 5Æ  GUID_PROCESSOR_DISTRIBUTE_UTILITY 5Æ  GUID_SYSTEM_COOLING_POLICY 5Æ  GUID_LOCK_CONSOLE_ON_WAKE 5Æ  GUID_DEVICE_IDLE_POLICY 5Æ  GUID_ACDC_POWER_SOURCE 5Æ  GUID_LIDSWITCH_STATE_CHANGE 5Æ  GUID_BATTERY_PERCENTAGE_REMAINING 5Æ  GUID_GLOBAL_USER_PRESENCE 5Æ  GUID_SESSION_DISPLAY_STATUS 5Æ  GUID_SESSION_USER_PRESENCE 5Æ  GUID_IDLE_BACKGROUND_TASK 5Æ  GUID_BACKGROUND_TASK_NOTIFICATION 5Æ  GUID_APPLAUNCH_BUTTON 5Æ  GUID_PCIEXPRESS_SETTINGS_SUBGROUP 5 Æ  GUID_PCIEXPRESS_ASPM_POLICY 5!Æ  GUID_ENABLE_SWITCH_FORCED_SHUTDOWN 5"Æ  PPM_PERFSTATE_CHANGE_GUID 5 Æ  PPM_PERFSTATE_DOMAIN_CHANGE_GUID 5!Æ  PPM_IDLESTATE_CHANGE_GUID 5"Æ  PPM_PERFSTATES_DATA_GUID 5#Æ  PPM_IDLESTATES_DATA_GUID 5$Æ  PPM_IDLE_ACCOUNTING_GUID 5%Æ  PPM_IDLE_ACCOUNTING_EX_GUID 5&Æ  PPM_THERMALCONSTRAINT_GUID 5'Æ  PPM_PERFMON_PERFSTATE_GUID 5(Æ  PPM_THERMAL_POLICY_CHANGE_GUID 5)Æ  	RPC_IF_HANDLE 6Bõú  7'º£  73±°  74Ï°   abs /‘å  ß√  ‘å   76ê√  __float128 76i  76<i  76\i  76|i  76úi  76ºi  76‹i  77÷£  78Ó£  79§  7:§  7<ru  7<h§  7<¸i  7>Ñ§  7@û§  7Cª§  7DŸ§  7Eˇ§  7G#•  7HG•  7JU•  7Kj•  7Lâ•  7M≠•  7N“•  7PÎ•  7Q¶  IWinTypesBase_v0_1_c_ifspec 8)b√  IWinTypesBase_v0_1_s_ifspec 8*b√  IID_IUnknown 9=Æ  IID_AsyncIUnknown 9ΩÆ  IID_IClassFactory 9mÆ  IID_IMarshal :nÆ  IID_INoMarshal :UÆ  IID_IAgileObject :îÆ  IID_IAgileReference :“Æ  IID_IMarshal2 :-Æ  IID_IMalloc :≤Æ  IID_IStdMarshalInfo :iÆ  IID_IExternalConnection :ÃÆ  IID_IMultiQI :GÆ  IID_AsyncIMultiQI :ûÆ  IID_IInternalUnknown :Æ  IID_IEnumUnknown :hÆ  IID_IEnumString : Æ  IID_ISequentialStream :¢ Æ  IID_IStream :MÆ  IID_IRpcChannelBuffer :ë	Æ  IID_IRpcChannelBuffer2 :;
+Æ  IID_IAsyncRpcChannelBuffer :Ω
+Æ  IID_IRpcChannelBuffer3 :
+Æ  IID_IRpcSyntaxNegotiate :ôÆ  IID_IRpcProxyBuffer :ÓÆ  IID_IRpcStubBuffer :V
+Æ  IID_IPSFactoryBuffer :Æ  IID_IChannelHook :üÆ  IID_IClientSecurity :√Æ  IID_IServerSecurity :mÆ  IID_IRpcOptions :Æ  IID_IGlobalOptions :ÆÆ  IID_ISurrogate :!Æ  IID_IGlobalInterfaceTable :âÆ  IID_ISynchronize :Æ  IID_ISynchronizeHandle :åÆ  IID_ISynchronizeEvent :·Æ  IID_ISynchronizeContainer :AÆ  IID_ISynchronizeMutex :ØÆ  IID_ICancelMethodCalls :Æ  IID_IAsyncManager :äÆ  IID_ICallFactory :Æ  IID_IRpcHelper :fÆ  IID_IReleaseMarshalBuffers :—Æ  IID_IWaitMultiple :,Æ  IID_IAddrTrackingControl :òÆ  IID_IAddrExclusionControl :˝Æ  IID_IPipeByte :hÆ  IID_IPipeLong :ŸÆ  IID_IPipeDouble :JÆ  IID_IComThreadingInfo :$Æ  IID_IProcessInitControl :≤Æ  IID_IFastRundown : Æ  IID_IMarshalingStream :JÆ  IID_ICallbackWithNoReentrancyToApplicationSTA :	Æ  GUID_NULL ;
+Æ  CATID_MARSHALER ;Æ  IID_IRpcChannel ;Æ  IID_IRpcStub ;Æ  IID_IStubManager ;Æ  IID_IRpcProxy ;Æ  IID_IProxyManager ;Æ  IID_IPSFactory ;Æ  IID_IInternalMoniker ;Æ  IID_IDfReserved1 ;Æ  IID_IDfReserved2 ;Æ  IID_IDfReserved3 ;Æ  CLSID_StdMarshal ;'Æ  CLSID_AggStdMarshal ;'Æ  CLSID_StdAsyncActManager ;'Æ  IID_IStub ;Æ  IID_IProxy ;Æ  IID_IEnumGeneric ;Æ  IID_IEnumHolder ;Æ  IID_IEnumCallback ; Æ  IID_IOleManager ;!Æ  IID_IOlePresObj ;"Æ  IID_IDebug ;#Æ  IID_IDebugStream ;$Æ  CLSID_PSGenObject ;%'Æ  CLSID_PSClientSite ;&'Æ  CLSID_PSClassObject ;''Æ  CLSID_PSInPlaceActive ;('Æ  CLSID_PSInPlaceFrame ;)'Æ  CLSID_PSDragDrop ;*'Æ  CLSID_PSBindCtx ;+'Æ  CLSID_PSEnumerators ;,'Æ  CLSID_StaticMetafile ;-'Æ  CLSID_StaticDib ;.'Æ  CID_CDfsVolume ;/'Æ  CLSID_DCOMAccessControl ;0'Æ  CLSID_GlobalOptions ;1'Æ  CLSID_StdGlobalInterfaceTable ;2'Æ  CLSID_ComBinding ;3'Æ  CLSID_StdEvent ;4'Æ  CLSID_ManualResetEvent ;5'Æ  CLSID_SynchronizeContainer ;6'Æ  CLSID_AddrControl ;7'Æ  CLSID_CCDFormKrnl ;8'Æ  CLSID_CCDPropertyPage ;9'Æ  CLSID_CCDFormDialog ;:'Æ  CLSID_CCDCommandButton ;;'Æ  CLSID_CCDComboBox ;<'Æ  CLSID_CCDTextBox ;='Æ  CLSID_CCDCheckBox ;>'Æ  CLSID_CCDLabel ;?'Æ  CLSID_CCDOptionButton ;@'Æ  CLSID_CCDListBox ;A'Æ  CLSID_CCDScrollBar ;B'Æ  CLSID_CCDGroupBox ;C'Æ  CLSID_CCDGeneralPropertyPage ;D'Æ  CLSID_CCDGenericPropertyPage ;E'Æ  CLSID_CCDFontPropertyPage ;F'Æ  CLSID_CCDColorPropertyPage ;G'Æ  CLSID_CCDLabelPropertyPage ;H'Æ  CLSID_CCDCheckBoxPropertyPage ;I'Æ  CLSID_CCDTextBoxPropertyPage ;J'Æ  CLSID_CCDOptionButtonPropertyPage ;K'Æ  CLSID_CCDListBoxPropertyPage ;L'Æ  CLSID_CCDCommandButtonPropertyPage ;M'Æ  CLSID_CCDComboBoxPropertyPage ;N'Æ  CLSID_CCDScrollBarPropertyPage ;O'Æ  CLSID_CCDGroupBoxPropertyPage ;P'Æ  CLSID_CCDXObjectPropertyPage ;Q'Æ  CLSID_CStdPropertyFrame ;R'Æ  CLSID_CFormPropertyPage ;S'Æ  CLSID_CGridPropertyPage ;T'Æ  CLSID_CWSJArticlePage ;U'Æ  CLSID_CSystemPage ;V'Æ  CLSID_IdentityUnmarshal ;W'Æ  CLSID_InProcFreeMarshaler ;X'Æ  CLSID_Picture_Metafile ;Y'Æ  CLSID_Picture_EnhMetafile ;Z'Æ  CLSID_Picture_Dib ;['Æ  GUID_TRISTATE ;\Æ  IWinTypes_v0_1_c_ifspec <(b√  IWinTypes_v0_1_s_ifspec <)b√  IID_IMallocSpy =ΩÆ  IID_IBindCtx =:Æ  IID_IEnumMoniker =J Æ  IID_IRunnableObject =Ë Æ  IID_IRunningObjectTable =é!Æ  IID_IPersist =i"Æ  IID_IPersistStream =æ"Æ  IID_IMoniker =j#Æ  IID_IROTData =X%Æ  IID_IEnumSTATSTG =µ%Æ  IID_IStorage =X&Æ  IID_IPersistFile =A(Æ  IID_IPersistStorage =Ò(Æ  IID_ILockBytes =±)Æ  IID_IEnumFORMATETC =¿*Æ  IID_IEnumSTATDATA =l+Æ  IID_IRootStorage =,Æ  IID_IAdviseSink =≥,Æ  IID_AsyncIAdviseSink =s-Æ  IID_IAdviseSink2 =©.Æ  IID_AsyncIAdviseSink2 =./Æ  IID_IDataObject =Ù/Æ  IID_IDataAdviseHolder =1Æ  IID_IMessageFilter =”1Æ  FMTID_SummaryInformation =]2:Æ  FMTID_DocSummaryInformation =_2:Æ  FMTID_UserDefinedProperties =a2:Æ  FMTID_DiscardableInformation =c2:Æ  FMTID_ImageSummaryInformation =e2:Æ  FMTID_AudioSummaryInformation =g2:Æ  FMTID_VideoSummaryInformation =i2:Æ  FMTID_MediaFileSummaryInformation =k2:Æ  IID_IClassActivator =s2Æ  IID_IFillLockBytes =’2Æ  IID_IProgressNotify =â3Æ  IID_ILayoutStorage =Ó3Æ  IID_IBlockingLock =í4Æ  IID_ITimeAndNoticeControl =˜4Æ  IID_IOplockStorage =N5Æ  IID_IDirectWriterLock =’5Æ  IID_IUrlMon =M6Æ  IID_IForegroundTransfer =º6Æ  IID_IThumbnailExtractor =7Æ  IID_IDummyHICONIncluder =Ü7Æ  IID_IProcessLock =Â7Æ  IID_ISurrogateService =H8Æ  IID_IInitializeSpy =Ú8Æ  IID_IApartmentShutdown =ä9Æ  IID_IOleAdviseHolder >´Æ  IID_IOleCache >bÆ  IID_IOleCache2 >)Æ  IID_IOleCacheControl >‘Æ  IID_IParseDisplayName ><Æ  IID_IOleContainer >úÆ  IID_IOleClientSite >Æ  IID_IOleObject >˛Æ  IOLETypes_v0_0_c_ifspec >˛b√  IOLETypes_v0_0_s_ifspec >ˇb√  IID_IOleWindow >$ Æ  IID_IOleLink >ö Æ  IID_IOleItemContainer >øÆ  IID_IOleInPlaceUIWindow >v	Æ  IID_IOleInPlaceActiveObject >
+Æ  IID_IOleInPlaceFrame >¯
+Æ  IID_IOleInPlaceObject >Ò
+Æ  IID_IOleInPlaceSite >ëÆ  IID_IContinue >§
+Æ  IID_IViewObject >˘
+Æ  IID_IViewObject2 >*Æ  IID_IDropSource >“Æ  IID_IDropTarget >[Æ  IID_IDropSourceNotify >ˇÆ  IID_IEnumOLEVERB >vÆ  IID_IServiceProvider ?9Æ  IOleAutomationTypes_v1_0_c_ifspec @Òb√  IOleAutomationTypes_v1_0_s_ifspec @Úb√  IID_ICreateTypeInfo @;Æ  IID_ICreateTypeInfo2 @bÆ  IID_ICreateTypeLib @≤ Æ  IID_ICreateTypeLib2 @∫Æ  IID_IDispatch @∂	Æ  IID_IEnumVARIANT @á
+Æ  IID_ITypeComp @5
+Æ  IID_ITypeInfo @Ÿ
+Æ  IID_ITypeInfo2 @PÆ  IID_ITypeLib @÷Æ  IID_ITypeLib2 @=Æ  IID_ITypeChangeEvents @aÆ  IID_IErrorInfo @⁄Æ  IID_ICreateErrorInfo @}Æ  IID_ISupportErrorInfo @ Æ  IID_ITypeFactory @uÆ  IID_ITypeMarshal @–Æ  IID_IRecordInfo @ÑÆ  IID_IErrorLog @ Æ  IID_IPropertyBag @zÆ  __MIDL_itf_msxml_0000_v0_0_c_ifspec AÎb√  __MIDL_itf_msxml_0000_v0_0_s_ifspec AÏb√  LIBID_MSXML A¸Æ  IID_IXMLDOMImplementation A Æ  IID_IXMLDOMNode A'Æ  IID_IXMLDOMDocumentFragment A˝Æ  IID_IXMLDOMDocument AfÆ  IID_IXMLDOMNodeList AuÆ  IID_IXMLDOMNamedNodeMap A∞Æ  IID_IXMLDOMCharacterData AÆ  IID_IXMLDOMAttribute AñÆ  IID_IXMLDOMElement AÆ  IID_IXMLDOMText A¶Æ  IID_IXMLDOMComment A%Æ  IID_IXMLDOMProcessingInstruction AûÆ  IID_IXMLDOMCDATASection A Æ  IID_IXMLDOMDocumentType Aí Æ  IID_IXMLDOMNotation A
+Æ  IID_IXMLDOMEntity AÆ  IID_IXMLDOMEntityReference A¯Æ  IID_IXMLDOMParseError Aa	Æ  IID_IXTLRuntime A¶	Æ  DIID_XMLDOMDocumentEvents A=
+Æ  CLSID_DOMDocument A\
+'Æ  CLSID_DOMFreeThreadedDocument A`
+'Æ  IID_IXMLHttpRequest Ag
+Æ  CLSID_XMLHTTPRequest AÕ
+'Æ  IID_IXMLDSOControl A‘
+Æ  CLSID_XMLDSOControl A
+
+'Æ  IID_IXMLElementCollection A
+Æ  IID_IXMLDocument AJ
+Æ  IID_IXMLDocument2 A≤
+Æ  IID_IXMLElement A$Æ  IID_IXMLElement2 AÇÆ  IID_IXMLAttribute AÂÆ  IID_IXMLError A
+Æ  CLSID_XMLDocument A.
+'Æ  CLSID_SBS_StdURLMoniker B~Æ  CLSID_SBS_HttpProtocol BÆ  CLSID_SBS_FtpProtocol BÄÆ  CLSID_SBS_GopherProtocol BÅÆ  CLSID_SBS_HttpSProtocol BÇÆ  CLSID_SBS_FileProtocol BÉÆ  CLSID_SBS_MkProtocol BÑÆ  CLSID_SBS_UrlMkBindCtx BÖÆ  CLSID_SBS_SoftDistExt BÜÆ  CLSID_SBS_CdlProtocol BáÆ  CLSID_SBS_ClassInstallFilter BàÆ  CLSID_SBS_InternetSecurityManager BâÆ  CLSID_SBS_InternetZoneManager BäÆ  IID_IAsyncMoniker BìÆ  CLSID_StdURLMoniker BîÆ  CLSID_HttpProtocol BïÆ  CLSID_FtpProtocol BñÆ  CLSID_GopherProtocol BóÆ  CLSID_HttpSProtocol BòÆ  CLSID_FileProtocol BôÆ  CLSID_MkProtocol BöÆ  CLSID_StdURLProtocol BõÆ  CLSID_UrlMkBindCtx BúÆ  CLSID_CdlProtocol BùÆ  CLSID_ClassInstallFilter BûÆ  IID_IAsyncBindCtx BüÆ  IID_IPersistMoniker BPÆ  IID_IMonikerProp B!Æ  IID_IBindProtocol BÆ  IID_IBinding B‡Æ  IID_IBindStatusCallback BuÆ  IID_IBindStatusCallbackEx B•Æ  IID_IAuthenticate Bd Æ  IID_IAuthenticateEx B– Æ  IID_IHttpNegotiate BAÆ  IID_IHttpNegotiate2 B¡Æ  IID_IHttpNegotiate3 B;	Æ  IID_IWinInetFileStream Bø	Æ  IID_IWindowForBindingUI B0
+Æ  IID_ICodeInstall Bõ
+Æ  IID_IWinInetInfo B•Æ  IID_IHttpSecurity BÆ  IID_IWinInetHttpInfo ByÆ  IID_IWinInetHttpTimeouts B¯Æ  SID_BindHost B5Æ  IID_IBindHost B?Æ  IID_IInternet BMÆ  IID_IInternetBindInfo B¨Æ  IID_IInternetBindInfoEx B&Æ  IID_IInternetProtocolRoot BøÆ  IID_IInternetProtocol BÑÆ  IID_IInternetProtocolSink BÆ  IID_IInternetProtocolSinkStackable BΩÆ  IID_IInternetSession B?Æ  IID_IInternetThreadSwitch BHÆ  IID_IInternetPriority B≤Æ  IID_IInternetProtocolInfo BNÆ  CLSID_InternetSecurityManager B≤Æ  CLSID_InternetZoneManager B≥Æ  IID_IInternetSecurityMgrSite BÀÆ  IID_IInternetSecurityManager BiÆ  IID_IInternetHostSecurityManager B!Æ  IID_IInternetZoneManager Bƒ"Æ  CLSID_SoftDistExt Bú&Æ  IID_ISoftDistExt BÃ&Æ  IID_ICatalogFileInfo Bx'Æ  IID_IDataFilter BÊ'Æ  IID_IEncodingFilterFactory B¶(Æ  GUID_CUSTOM_CONFIRMOBJECTSAFETY B3)Æ  IID_IWrappedProtocol BA)Æ  IID_IGetBindHandle B•)Æ  IID_IBindCallbackRedirect B
+*Æ  IID_IPropertyStorage C∑Æ  IID_IPropertySetStorage CÆ  IID_IEnumSTATPROPSTG C¶Æ  IID_IEnumSTATPROPSETSTG CDÆ  IID_StdOle DÆ  GUID_DEVINTERFACE_DISK EÆ  GUID_DEVINTERFACE_CDROM E
+Æ  GUID_DEVINTERFACE_PARTITION EÆ  GUID_DEVINTERFACE_TAPE EÆ  GUID_DEVINTERFACE_WRITEONCEDISK EÆ  GUID_DEVINTERFACE_VOLUME EÆ  GUID_DEVINTERFACE_MEDIUMCHANGER EÆ  GUID_DEVINTERFACE_FLOPPY EÆ  GUID_DEVINTERFACE_CDCHANGER EÆ  GUID_DEVINTERFACE_STORAGEPORT EÆ  GUID_DEVINTERFACE_COMPORT EÆ  GUID_DEVINTERFACE_SERENUM_BUS_ENUMERATOR EÆ  _SCARD_IO_REQUEST F°îÓ  dwProtocol F¢
+å≠   cbPciLength F£
+å≠   	SCARD_IO_REQUEST F§OÓ  
+îÓ  g_rgSCardT0Pci G%.≠Ó  g_rgSCardT1Pci G%=≠Ó  g_rgSCardRawPci G%L≠Ó  IID_IPrintDialogCallback HÆ  IID_IPrintDialogServices HÆ  	clock_t I<‡å  _daylight Iz‘å  _dstbias I{‡å  _timezone I|‡å  (ê  èÔ  0Aå   _tzname I}Ô  daylight I‘å  timezone I‡å  tzname IÔ  eclock Ià:Ô  difftime I⁄Œô    ˇå  ˇå   mktime Iﬂˇå       áì  time I·ˇå  7  7   ˇå  asctime IÑê  W  œò   ctime I€ê  o  o   ç  gmtime I‹  é  o   localtime I›  ™  o   4y  
+™  ê  ¡Ä  
+ª  4y  ∆Ä  ©ï  gà  ∆Ä  k  P]k  Pêk  O	£   Â˚  3Â˚  5¸  5¸  Õp  
+Ò  5_ZNSt17integral_constantIbLb0EE5valueE ¶P   5_ZNSt17integral_constantIbLb1EE5valueE ¥Q  5_ZNSt17integral_constantIyLy0EE5valueE –R   Q_ZN9__gnu_cxx24__numeric_traits_integerIiE5__minE  u  ÄÄÄÄxê_ZN9__gnu_cxx24__numeric_traits_integerIiE5__maxE u  ˇˇˇ5_ZN9__gnu_cxx25__numeric_traits_floatingIfE16__max_exponent10E ∫à  &R_ZN9__gnu_cxx25__numeric_traits_floatingIdE16__max_exponent10E â  4R_ZN9__gnu_cxx25__numeric_traits_floatingIeE16__max_exponent10E ââ  D5_ZN9__gnu_cxx24__numeric_traits_integerImE8__digitsE ¯â   5_ZN9__gnu_cxx24__numeric_traits_integerIcE5__maxE Bä  Q_ZN9__gnu_cxx24__numeric_traits_integerIsE5__minE ùä  ÄÄ~R_ZN9__gnu_cxx24__numeric_traits_integerIsE5__maxE ©ä  ˇQ_ZN9__gnu_cxx24__numeric_traits_integerIxE5__minE ã  ÄÄÄÄÄÄÄÄÄë_ZN9__gnu_cxx24__numeric_traits_integerIxE5__maxE ã  ˇˇˇˇˇˇˇh_GLOBAL__sub_I_main À             úí__static_initialization_and_destruction_0 è      <       úÙ  B__initialize_p 4‘å  ë B__priority 4‘å  ë h__tcf_0 t             úSπz  *ı                 ú7ı  CZ  ¡  ë  S0Ä  Vı                 úcı  CZ  ¡  ë  ì:q  åı  2      B       ú™ı  
+P   4y  CZ  Ò  ë )__it 4y  ë Sª{  …ı                  ú÷ı  CZ  ∞  ë  ¡Ä  ;Bã          >       ú.ˆ  
+P   ê  
+ó  ø   )__lhs q@÷ı  ë )__rhs r9÷ı  ë +q  <ˆ  Tˆ  Z  Ò  îÄ   Â˚   ï.ˆ  tˆ        "       úÖˆ  i<ˆ  ë iEˆ  ë ;5m  ≤      ^       ú˚ˆ  
+€   4y  
+  Õp  )__first v4y  ë )__last v74y  ëTÄ   vJÕp  ëñ__n xA:l  ëh ;æq  Ñ      .       ú0˜  
+  Â˚  TÄ    Â˚  ë  3m  ó¯m  v             úk˜  _Tp 4n  B__t c4n  ë  +≤r  y˜  å˜  Z  W°  I  €å   ,k˜  _ZN9__gnu_cxx13new_allocatorIcED2Ev Ω˜  √˜  #y˜   +3r  —˜  €˜  Z  W°   ,√˜  _ZN9__gnu_cxx13new_allocatorIcEC2Ev ¯  ¯  #—˜   +ã   ¯  D¯  Z  æ´  U__dat îm  U__a î'√´   ,¯  _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_Alloc_hiderC2EPcOS3_ û¯  Æ¯  # ¯  #)¯  #7¯   3»l  ò@n  ‘¯  _Tp ¶´  U__t c¶´   ;≠n          +       ú/˘  
+B  %å  
+
+  (U  
+Í  ™]  )__lhs õ=¸´  ë )__rhs ú£ï  ë ;mo  ;      ;       úó˘  _IIter 4y  
+  Â˚  )__first 4y  ë )__last 54y  ëTÄ   HÂ˚  ë +  •˘  Ø˘  Z  ﬂ´   ,ó˘  _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC2Ev ˆ˘  ¸˘  #•˘   +^  
+˙  ˙  Z  z°  I  €å   ,¸˘  _ZNSaIcED2Ev 7˙  =˙  #
+˙   + ]  K˙  U˙  Z  z°   ,=˙  _ZNSaIcEC2Ev o˙  u˙  #K˙   +0  É˙  ñ˙  Z  ﬂ´  I  €å   ,u˙  _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEED2Ev ›˙  „˙  #É˙   ô  ãı˙  ˚  Z  æ´  I  €å   ,„˙  _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_Alloc_hiderD1Ev ]˚  c˚  #ı˙   ömain 
+‘å  &             ú
+˝  6sentence 
+øH  ë†6input_file p  ë¿{6input_str øH  ë†{6upper_case_count 	‘å  ëL<lambda(unsigned char)> J¬¸  jO  ¸  ¸  ¸  Ò   jO  +¸  ;¸  ¸  Ò  
+Â˚   õO  I¸  O¸  ¸   ú~<lambda> c¸  n¸  ¸  ‘å   ù–  ‘å  é¸          &       úû__closure °¸  ë 
+Ò  Bc Zcí  ëV        
+˝    6is_simonenko 
+–ú  ëK6output_file $ip  ë–wV[       )˝  Vi       6˝   üisupper __builtin_isupper kˆ   ˆ   J
+kÜ  Ü  J  I  4 :
+;9
+I?<   I4   :
+;
+9
+  4 :
+;
+9
+I?<  .?:
+;9
+nI2
+<d   .?:
+;9
+I<   
+
+I  	 :
+;
+9
+I  
+& I  
+/ I  
+ :
+;
+9
+I8
+  
+
+ :
+;
+9
+I?<  .?:
+;9
+nI2
+<d  .:
+;9
+I<   
+
+I  
+
+:
+;
+9
+  
+ :
+;9
+I8
+  $ 
+
+>
+  / I  .?:
+;9
+nI<   :
+;
+9
+I2
+   :
+;
+9
+I  .?:
+;9
+n2
+<d     .?:
+;9
+nI<   I4   :
+;9
+  
+ :
+;9
+I8  .?:
+;
+9
+I<  .?:
+;9
+n2
+<d   .?:
+;
+9
+nI<  !.?:
+;
+9
+n2
+<d  " :
+;9
+I  # 1  $.?:
+;
+9
+n<d  %4 :
+;
+9
+nI?<  &
+
+:
+;9
+  ' :
+;9
+I  (I  ) :
+;9
+I  */ I  +.Gd 
+  ,.1nd  -.?:
+;
+9
+nI<d  ..?:
+;9
+n<  /<  0! I/
+  1.?:
+;9
+nI<d  2 :
+;9
+I2
+  3B 
+
+I  4.?:
+;9
+<  54 nG
+  64 :
+;
+9
+I  7.?:
+;
+9
+nI<d  8.?:
+;9
+n<d  9.?:
+;
+9
+nI2
+<d  :. ?:
+;
+9
+nI<  ;.G @ñB  <
+
+:
+;
+9
+  =
+
+:
+;
+9
+  >: :
+;9
+  ?.?:
+;
+9
+nI2
+<d  @. ?:
+;9
+I<  A.:
+;
+9
+I<  B :
+;
+9
+I  C I4  D.?:
+;
+9
+n<d  E.?:
+;9
+n<  F.?:
+;9
+n2
+<cd  G.?:
+;
+9
+n<cã
+d  H9:
+;
+9
+  I.?:
+;
+9
+n2
+<d  J <  K
+ :
+;
+9
+I?<l  L0 I
+  M>
+
+
+I:
+;
+9
+  N( 
+  O: :
+;
+9
+  P4 G  Q4 nG
+  R4 nG  S.Gd @óB  T :
+;9
+I  U :
+;
+9
+I  VâÇ 1  W9:
+;9
+â  X I8
+  Y
+ :
+;
+9
+I  Z.?:
+;9
+nI<d  [ :
+;
+9
+I2
+  \9 :
+;9
+  ]4 :
+;
+9
+I<
+l  ^. ?:
+;9
+nI<  _9 :
+;9
+â  `
+ :
+;9
+I?<  a
+
+:
+;9
+  b
+ :
+;9
+I8
+2
+  c
+ :
+;9
+I8
+  d <  e. ?:
+;
+9
+I<  f!   g  h. 4 @ñB  i 1  j.4<d  k. ?<n:
+;9
+  l%
+U  m9:
+;
+  n.?n4<d  o
+
+:
+;
+9
+  p
+ :
+;
+9
+I?2
+<   q
+ I8
+  r
+
+:
+;
+9
+  s.?:
+;
+9
+n<cd  t.?:
+;
+9
+nI2
+<cd  u.?:
+;
+9
+nI2
+<d  v.?:
+;
+9
+ná<  w9 :
+;
+9
+  x I8
+2
+  y.?:
+;
+9
+n2
+<d  z9 :
+;
+9
+â  {
+
+:
+;9
+2
+  |4 :
+;
+9
+I<  } 
+
+:
+;9
+  ~4 :
+;9
+I<
+l  .:
+;
+9
+I<  Ä9:
+;9
+  Å.:
+;9
+<cd  Ç.:
+;9
+I<d  É.:
+;9
+I<  Ñ.?:
+;
+9
+n<  Ö.?:
+;9
+nI<  Ü 
+
+I  á
+:
+;9
+  à
+
+:
+;9
+  â 
+
+  ä;   ã   å&   ç
+
+:
+;9
+n  éI  è4 G  ê4 nG  ë4 nG   í.4 @ñB  ì.Gd @ñB  î :
+;9
+I  ï.1d @ñB  ñ4 :
+;9
+I  ó.G @óB  ò.G  ô.G:
+;
+9
+d 
+  ö.?:
+;
+9
+I @ñB  õ.4<äd  ú.4<d  ù.I4d @óB  û I4  ü. ?<n   |                     È              +               >                                                                             È              +               >                                                                     H   *  ˚
+      D:/UNI/Code Blocks/Lab 10/task 1 C:/Program Files/CodeBlocks/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits C:/Program Files/CodeBlocks/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++ C:/Program Files/CodeBlocks/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits C:/Program Files/CodeBlocks/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/debug C:/Program Files/CodeBlocks/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ext C:/Program Files/CodeBlocks/MinGW/x86_64-w64-mingw32/include  main.cpp   stl_algo.h   basic_string.h   move.h   predefined_ops.h   stl_iterator.h   iostream   stringfwd.h   cwchar   new   exception_ptr.h   c++config.h   type_traits   cpp_type_traits.h   stl_pair.h   debug.h   char_traits.h   cstdint   clocale   allocator.h   cstdlib   cstdio   alloc_traits.h   initializer_list   system_error   ios_base.h   cwctype   iosfwd   std_abs.h   ctime   stl_iterator_base_types.h   uses_allocator.h   tuple   new_allocator.h   numeric_traits.h   alloc_traits.h   crtdefs.h    locale.h    wchar.h    swprintf.inl    stdint.h    stdio.h    ctype.h    process.h    pthread.h    atomic_word.h   stdlib.h    malloc.h    wctype.h    excpt.h    minwindef.h    guiddef.h    winnt.h    rpcdce.h    stdlib.h   wtypesbase.h    unknwnbase.h    objidlbase.h    cguid.h    wtypes.h    objidl.h    oleidl.h    servprov.h    oaidl.h    msxml.h    urlmon.h    propidl.h    oleauto.h    winioctl.h    winsmcrd.h    winscard.h    commdlg.h    time.h    wincon.h    <built-in>     [ 	        Âmf.
+YÂ◊ÿÂÆ	‰<K7.ÂÁ"Â$[/#g¶X# K¶ W J t&Yh&ÊÑ	∫<K8.ÂΩ0UX »ÊëL â&p∫tx<
+8(êÕ∫òíÿ`tJÉMJº.%…:ê=÷’ûA> É=ÚK!V ê1K óifÂ	ªx
+YJ
+∫Ú!X Ø~tÇj.÷ f êjttÇ  	        ö/#Ù&Ú)X  	        [)û,f    	        †Ñt
+≠ K   	        ÃÉJ   	        òÉt size_type replace const_iterator __value allocator _M_local_data _Value compare _Iterator _M_get_allocator nothrow_t operator-- __pred refcount value_type operator-= operator-> basic_string append piecewise_construct_t _InputIterator __is_signed SetConsoleCP vswprintf _Traits _M_current allocator_arg_t __max_digits10 find_last_of deallocate operator* operator+ operator- char_type length SetConsoleOutputCP to_char_type operator= iterator find_last_not_of new_allocator find_first_of rfind to_int_type allocate __normal_iterator const_pointer operator[] operator++ operator+= _CharT __in_chrg insert this assign find _S_copy_chars __max _Predicate _Alloc_hider _Container reference __digits10 const_reference int_type operator() swprintf __min _Alloc exception_ptr difference_type eq_int_type find_first_not_of pointer max_size initializer_list <lambda> __max_exponent10 __digits allocator_type GCC: (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 8.1.0                                     ˇˇˇˇ x  †      $               &       AÜC
+a∆    D       &             AÜAÖA ÑA(ÉG–H– ˛√AƒA≈A∆ Å     ,       ;      ;       AÜAÉD@Hk√A∆ $       v             AÜC
+I∆    4       Ñ      .       AÜAÑA ÉC
+e√AƒA∆      $       ≤      ^       AÜC
+Y∆   $             "       AÜC
+]∆    ,       2      B       AÜAÉD@Hr√A∆ $       t             AÜC
+V∆    $       è      <       AÜC
+w∆    $       À             AÜC
+Y∆       ˇˇˇˇ x  †      $               +       AÜC
+f∆       ˇˇˇˇ x  †      ,               >       AÜAÉD@Hn√A∆    ˇˇˇˇ x  †      $                       AÜC
+[∆       ˇˇˇˇ x  †      $                      AÜC
+I∆       ˇˇˇˇ x  †      $                      AÜC
+L∆       d    :   e    I   i    U   f    c   g    t   j    à   ,    ê   k    ü   l    ≠   ,    ¥   b    π   m    ¿   c    »   n    Ê   i    ¸   o    
+  p      q    ?  ,    G      Y  ,    a      Ü  r    ó  ,    ü  s    ´  t    π  ,    ¿  b    ≈  m    Ã  c    ‘  n    Î  ,    Û  m    ˛  ,      m      u      ,    %  m    9  ,    A  m    N  ,    V  m    g  v    á  w    ß  x    «  w    ‰  v    ¯  w      x       w    +  y    ⁄             T  "      *    Ñ  {    Ø  *    ¥  |    ¿  }        h        &       &       .       &       &       .       &       &        .    $   &    (   &    ,   .    0   &    4   &    8   .    <   &    @   &    D   .    H   &    L   &    P   .    T   &    X   &    \   .    `   &    d   &    h   .    l   &    p   &    t   .    x   &    |   &    Ä   .       z                      2           *                         6                      :                      >                        B        &       J   
+ ì   N   
+ ü   P   
+ 
+  R   
+   R   
+ å  R   
+ n  R   
+ ∏  R   
+ 7  R   
+ ò  R   
+ •  R   
+ e  R   
+ ê  R   
+ ı  R   
+ [  R   
+ Í  R   
+ ˜  R   
+ Ü
+  R   
+ ì
+  R   
+ ˛
+  R   
+   R   
+ k  R   
+ ∆  R   
+ !  R   
+ å  R   
+ Û  R   
+ d  R   
+ Õ  R   
+ 0  R   
+ ó  R   
+ Ò  R   
+ h  R   
+ Õ  R   
+ í  R   
+ Ò  R   
+ N  R   
+ ©  R   
+    R   
+ a  R   
+ Ω  R   
+ ¡  R   
+ Œ  R   
+ *   R   
+ 7   R   
+ ∑"  R   
+ #  R   
+ s#  R   
+ Œ#  R   
+ ?$  R   
+ £$  R   
+ %  R   
+ {%  R   
+ ›%  R   
+ C&  R   
+ '  R   
+ Ç'  R   
+ Â'  R   
+ U(  R   
+ Ω(  R   
+ )  R   
+ Ö)  R   
+ ˚)  R   
+ ç*  R   
+ *+  R   
+ î+  R   
+ 
+,  R   
+ x,  R   
+ ‡,  R   
+ L-  R   
+ Ã/  R   
+ =0  R   
+ ∫0  R   
+ /1  R   
+ û1  R   
+ 2  R   
+ ™2  R   
+ G3  R   
+ ﬁ3  R   
+ y4  R   
+ 5  R   
+ ∂5  R   
+ ^6  R   
+ ˝6  R   
+ 
+;  R   
+ z;  R   
+ „;  R   
+ J<  R   
+ Ø<  R   
+ =  R   
+ á=  R   
+ Ô=  R   
+ U>  R   
+ »>  R   
+ ??  R   
+ ∞?  R   
+ @  R   
+ ë@  R   
+  A  R   
+ wA  R   
+ ÂA  R   
+ \B  R   
+ ◊B  R   
+ LC  R   
+ øC  R   
+ 5D  R   
+ ØD  R   
+ #E  R   
+ ˇE  R   
+ eF  R   
+ ◊F  R   
+ UG  R   
+ πG  R   
+ )H  R   
+ üH  R   
+ ®H  R   
+ ±H  R   
+ K  R   
+  K  R   
+ ÇK  R   
+ ¨K  R   
+ ﬁL  R   
+ M  R   
+ iM  R   
+ ∞M  R   
+ ˘M  R   
+ GN  R   
+ µP  R   
+ 6Q  R   
+ √Q  R   
+ CR  R   
+ ﬂR  R   
+ nS  R   
+ .T  R   
+ kT  R   
+ ßT  R   
+ ∏T  R   
+ ≈T  R   
+ EU  R   
+ ÄU  R   
+ V  R   
+ OV  R   
+ áV  R   
+ TW  R   
+ óW  R   
+ ÷W  R   
+ ËW  R   
+ &X  R   
+ “X  R   
+ 
+Y  R   
+ EY  R   
+ ÕY  R   
+ Z  R   
+ LZ  R   
+ [  R   
+ \[  R   
+ õ[  R   
+ ≠[  R   
+ Î[  R   
+ ó\  R   
+ À]  R   
+ Ô]  R   
+ ∑`  R   
+ ƒ`  R   
+ a  R   
+  a  R   
+ -a  R   
+ õa  R   
+ Îa  R   
+ µb  R   
+ ¬b  R   
+ Âb  R   
+ c  R   
+ .c  R   
+ Kc  R   
+ çc  R   
+ öc  R   
+  g  R   
+ )g  R   
+ kg  R   
+ tg  R   
+ ∞g  R   
+ πg  R   
+ ˚g  R   
+ h  R   
+ õj  R   
+ ßj  R   
+ ≥j  R   
+ øj  R   
+ Ôj  R   
+ ˚j  R   
+  k  R   
+ k  R   
+ k  R   
+ *k  R   
+ ;l  R   
+ Gl  R   
+ Ñl  R   
+ çl  R   
+ ◊m  R   
+ ‡m  R   
+ Ho  R   
+ Qo  R   
+ Zo  R   
+ ˙o  R   
+ Wp  R   
+ `p  R   
+ °q  R   
+ µq  R   
+ ˜q  R   
+ 4r  R   
+ or  R   
+ ˛r  R   
+ [s  R   
+ hs  R   
+ ∆s  R   
+ ”s  R   
+ &t  R   
+ 3t  R   
+ Ñt  R   
+ u  R   
+ 
+u  R   
+ u  R   
+ %u  R   
+ 1u  R   
+ ∞x  R   
+ ¡x  R   
+ Õx  R   
+ Ÿx  R   
+ Âx  R   
+ Òx  R   
+ +y  R   
+ ™y  R   
+ πy  R   
+ .z  R   
+ ¨z  R   
+ ∫z  R   
+ 4{  R   
+ B{  R   
+ º{  R   
+ 5|  R   
+ ≥|  R   
+ ,}  R   
+ ™}  R   
+ )~  R   
+ 7~  R   
+ µ~  R   
+ 4  R   
+ ≤  R   
+ ØÄ  R   
+ ∏Ä  R   
+ BÅ  R   
+ QÅ  R   
+ «Å  R   
+ FÇ  R   
+ TÇ  R   
+ œÇ  R   
+ ›Ç  R   
+ XÉ  R   
+ “É  R   
+ QÑ  R   
+ ÀÑ  R   
+ JÖ  R   
+  Ö  R   
+ ÿÖ  R   
+ WÜ  R   
+ ◊Ü  R   
+ Vá  R   
+ Uà  R   
+ ^à  R   
+ óà  R   
+ £à  R   
+ Øà  R   
+ ªà  R   
+ «à  R   
+ ¸à  R   
+ â  R   
+ â  R   
+  â  R   
+ ,â  R   
+ fâ  R   
+ râ  R   
+ ~â  R   
+ äâ  R   
+ ñâ  R   
+ ’â  R   
+ ·â  R   
+ Ìâ  R   
+ ˘â  R   
+ ä  R   
+ 7ä  R   
+ Cä  R   
+ Oä  R   
+ [ä  R   
+ gä  R   
+ ûä  R   
+ ™ä  R   
+ ∂ä  R   
+ ¬ä  R   
+ Œä  R   
+ 	ã  R   
+ ã  R   
+ !ã  R   
+ -ã  R   
+ 9ã  R   
+ Ôã  R   
+ ¯ã  R   
+ Éç  R   
+ ¶ç  R   
+ lñ  R   
+ àñ  R   
+ 7ó  R   
+ Wó  R   
+ Ø¨  *    kÙ  &    ©Ù  &    ˘Ù  &    ı       +ı  R   
+ @ı      Wı  R   
+ mı  &    Ñı  R   
+ çı  R   
+ ≥ı       ı  R   
+ ·ı      ¯ı  R   
+ ˆ  R   
+ =ˆ  R   
+ Gˆ  R   
+ ^ˆ  &    äˆ  &    °ˆ  R   
+ ™ˆ  R   
+ ⁄ˆ  R   
+  ˜  &    ˜  R   
+  ˜  R   
+ <˜  &    z˜  R   
+ É˜  R   
+ “˜  R   
+ !¯  R   
+ Ÿ¯      ¯  R   
+ ˘¯  R   
+ ˘  R   
+ 4˘  &    W˘  R   
+ á˘  R   
+ ¶˘  R   
+ 
+˙  R   
+ ˙  R   
+ L˙  R   
+ Ñ˙  R   
+ ç˙  R   
+ ˆ˙  R   
+ ˇ˙  R   
+ q˚  &     ¸  R   
+ ¸  R   
+ =¸  R   
+ p¸  R   
+ |¸  &    ¥¸  &    Û¸  &     ˝  &    *˝  R   
+ .˝  R   
+ 7˝  R   
+ ;˝  R   
+    H   
+    &            0       @       P       `            &       &                          (       0       8       @       H       P        X        9  &    Ø       –       Û             5           ~               V   
+     &    D   V   
+ H   &    å   V   
+ ê   &    º   V   
+ ¿   &    ‰   V   
+ Ë   &      V   
+    &    D  V   
+ H  &    l  V   
+ p  &    ú  V   
+ †  &    ƒ  V   
+ »  &    Ï  V   
+   &       X   
+            Z   
+            \   
+            ^   
+            `   
+          .file       ˛ˇ  gmain.cpp                             Â              Ù             		             	                           main    &           +	                            D	                            é	  ;          4
+          +                   á
+               ‘
+  v          
+  Ñ          Y
+  ≤                      O            É      
+   >                   ˆ      
+        c
+      
+                        ∆
+      
+        #  2          ®                                           p                             ‘          __tcf_0 t          2  è          b  À      .text          È  ;             .data                            .bss                            .rdata         π                .xdata         ¥                .pdata         Ñ   !                 v                                    	                            
+                       í                                                         j                            Œ                             6                            û                                                     .ctors                             h         D˝  s                t         [
+                    Ç         Ä                     ë         p                    ü         L                   ´         Å                    ∂         ?                     ¡                             Œ      !   @                   (      "   H                   ¢      #   @                         $   @                   z      %   @                   Â              ˜              :           __main               H               [               t               ã               ≈               Ù               9               n               ¶               ∑                               \               ö               Õ                              D               N               }               ∑               Ê               ı               8               P           atexit               h               £           ≠  .text$_ZSteqIcSt11char_traitsIcESaIcEEbRKNSt7__cxx1112basic_stringIT_T0_T1_EEPKS5_ .xdata$_ZSteqIcSt11char_traitsIcESaIcEEbRKNSt7__cxx1112basic_stringIT_T0_T1_EEPKS5_ .pdata$_ZSteqIcSt11char_traitsIcESaIcEEbRKNSt7__cxx1112basic_stringIT_T0_T1_EEPKS5_ .text$_ZN9__gnu_cxxneIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEbRKNS_17__normal_iteratorIT_T0_EESD_ .xdata$_ZN9__gnu_cxxneIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEbRKNS_17__normal_iteratorIT_T0_EESD_ .pdata$_ZN9__gnu_cxxneIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEbRKNS_17__normal_iteratorIT_T0_EESD_ .text$_ZN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEppEv .xdata$_ZN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEppEv .pdata$_ZN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEppEv .text$_ZNK9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE4baseEv .xdata$_ZNK9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE4baseEv .pdata$_ZNK9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE4baseEv .text$_ZNK9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEdeEv .xdata$_ZNK9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEdeEv .pdata$_ZNK9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEdeEv .debug_info .debug_abbrev .debug_aranges .debug_ranges .debug_line .debug_str .rdata$zzz .rdata$.refptr._ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_ .rdata$.refptr._ZSt4cout .debug_frame .debug_frame$_ZSteqIcSt11char_traitsIcESaIcEEbRKNSt7__cxx1112basic_stringIT_T0_T1_EEPKS5_ .debug_frame$_ZN9__gnu_cxxneIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEbRKNS_17__normal_iteratorIT_T0_EESD_ .debug_frame$_ZN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEppEv .debug_frame$_ZNK9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE4baseEv .debug_frame$_ZNK9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEdeEv _ZStL19piecewise_construct _ZStL8__ioinit _ZStL13allocator_arg _ZStL6ignore _ZZ4mainENKUlhE_clEh .rdata$.refptr._ZSt4cout .rdata$.refptr._ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_ _ZSt8count_ifIN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEZ4mainEUlhE_ENSt15iterator_traitsIT_E15difference_typeESC_SC_T0_ .text$_ZSteqIcSt11char_traitsIcESaIcEEbRKNSt7__cxx1112basic_stringIT_T0_T1_EEPKS5_ _ZSteqIcSt11char_traitsIcESaIcEEbRKNSt7__cxx1112basic_stringIT_T0_T1_EEPKS5_ _ZSt4moveIRZ4mainEUlhE_EONSt16remove_referenceIT_E4typeEOS3_ _ZN9__gnu_cxx5__ops11__pred_iterIZ4mainEUlhE_EENS0_10_Iter_predIT_EES4_ _ZSt10__count_ifIN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEENS0_5__ops10_Iter_predIZ4mainEUlhE_EEENSt15iterator_traitsIT_E15difference_typeESF_SF_T0_ _ZN9__gnu_cxx5__ops10_Iter_predIZ4mainEUlhE_EC2ES2_ _ZN9__gnu_cxx5__ops10_Iter_predIZ4mainEUlhE_EC1ES2_ .text$_ZN9__gnu_cxxneIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEbRKNS_17__normal_iteratorIT_T0_EESD_ _ZN9__gnu_cxxneIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEbRKNS_17__normal_iteratorIT_T0_EESD_ .text$_ZN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEppEv _ZN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEppEv _ZN9__gnu_cxx5__ops10_Iter_predIZ4mainEUlhE_EclINS_17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEEEbT_ .text$_ZNK9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE4baseEv _ZNK9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE4baseEv .text$_ZNK9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEdeEv _ZNK9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEdeEv _Z41__static_initialization_and_destruction_0ii _GLOBAL__sub_I_main .xdata$_ZSteqIcSt11char_traitsIcESaIcEEbRKNSt7__cxx1112basic_stringIT_T0_T1_EEPKS5_ .pdata$_ZSteqIcSt11char_traitsIcESaIcEEbRKNSt7__cxx1112basic_stringIT_T0_T1_EEPKS5_ .xdata$_ZN9__gnu_cxxneIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEbRKNS_17__normal_iteratorIT_T0_EESD_ .pdata$_ZN9__gnu_cxxneIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEbRKNS_17__normal_iteratorIT_T0_EESD_ .xdata$_ZN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEppEv .pdata$_ZN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEppEv .xdata$_ZNK9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE4baseEv .pdata$_ZNK9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE4baseEv .xdata$_ZNK9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEdeEv .pdata$_ZNK9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEdeEv .debug_info .debug_abbrev .debug_aranges .debug_ranges .debug_line .debug_str .rdata$zzz .debug_frame .debug_frame$_ZSteqIcSt11char_traitsIcESaIcEEbRKNSt7__cxx1112basic_stringIT_T0_T1_EEPKS5_ .debug_frame$_ZN9__gnu_cxxneIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEbRKNS_17__normal_iteratorIT_T0_EESD_ .debug_frame$_ZN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEppEv .debug_frame$_ZNK9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE4baseEv .debug_frame$_ZNK9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEdeEv .refptr._ZSt4cout .refptr._ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_ __imp_isupper __imp_SetConsoleCP __imp_SetConsoleOutputCP __gxx_personality_seh0 _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC1Ev _ZNSt14basic_ifstreamIcSt11char_traitsIcEEC1Ev _ZNSt14basic_ifstreamIcSt11char_traitsIcEE4openEPKcSt13_Ios_Openmode _ZNSt14basic_ifstreamIcSt11char_traitsIcEE7is_openEv _ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc _ZNSolsEPFRSoS_E _ZSt7getlineIcSt11char_traitsIcESaIcEERSt13basic_istreamIT_T0_ES7_RNSt7__cxx1112basic_stringIS4_S5_T1_EE _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE3endEv _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE5beginEv _ZNSt14basic_ifstreamIcSt11char_traitsIcEE5closeEv _ZNSt14basic_ofstreamIcSt11char_traitsIcEEC1EPKcSt13_Ios_Openmode _ZNSt14basic_ofstreamIcSt11char_traitsIcEE7is_openEv _ZNSolsEi _ZNSt14basic_ofstreamIcSt11char_traitsIcEED1Ev _ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEED1Ev _ZNSt14basic_ifstreamIcSt11char_traitsIcEED1Ev _Unwind_Resume _ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7compareEPKc _ZNSt8ios_base4InitD1Ev _ZNSt8ios_base4InitC1Ev _ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_ _ZSt4cout 
